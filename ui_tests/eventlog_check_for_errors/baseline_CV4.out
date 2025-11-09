@@ -1,0 +1,205 @@
+LAST_UPDATE: 09-02-2011
+commandtask: [1;31m<ERROR>[0;39m connect to dbmodule failed
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect inputboard (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect inputboard (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect inputboard (7)
+commandtask: [1;31m<ERROR>[0;39m Could not detect inputboard (7)
+commandtask: [1;31m<ERROR>[0;39m Not able to configure 2nd IO-board for Profinet mode
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to board (7) for alarm signal
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to board (7) for rotohandler alarm signal
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to BypassInspection board (0)
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to BypassInspection board (0)
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+dbmodule: [1;31m<ERROR>[0;39m DBWriter::init() : connection to DB not successful
+InspectModule001: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 0
+InspectModule001: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 0
+InspectModule001: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 3
+InspectModule001: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 7
+InspectModule001: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 7
+InspectModule001: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+InspectModule001: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+InspectModule001: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+InspectModule001: [1;31m<ERROR>[0;39m pin (0) for board type 0 out of range min=0 max=-1
+InspectModule001: [1;31m<ERROR>[0;39m pin (0) for board type 0 out of range min=0 max=-1
+InspectModule001: [1;31m<ERROR>[0;39m pin (3) for board type 0 out of range min=0 max=-1
+InspectModule001: [1;31m<ERROR>[0;39m pin (7) for board type 0 out of range min=0 max=-1
+InspectModule001: [1;31m<ERROR>[0;39m pin (7) for board type 0 out of range min=0 max=-1
+InspectModule001: ClearToSend() [1;31m<ERROR>[0;39m cannot access device "/dev/ttyS2" (Input/output error)
+InspectModule001: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (falling edge at pin 0 --> -1)
+InspectModule001: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (falling edge at pin 7 --> -1)
+InspectModule001: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (rising edge at pin 0 --> -1)
+InspectModule001: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (rising edge at pin 7 --> -1)
+InspectModule001: DefineRisingEdgeEvent() [1;31m<ERROR>[0;39m cannot add pulse (rising edge at pin 1003 --> -1)
+InspectModule001: GetHomedMotor() [1;31m<ERROR>[0;39m no answer received from motor 1
+InspectModule001: GetMotorErrorCodes( ROTOHANDLER ) [1;31m<ERROR>[0;39m cannot get motor 1 statusword(s)
+InspectModule001: GetMotorErrorCodes( ROTOHANDLER ) [1;31m<ERROR>[0;39m cannot get motor 1 statusword(s)
+InspectModule001: InitSerialDevice() [1;31m<ERROR>[0;39m device "/dev/ttyS2" cable not connected
+InspectModule001: MainInit() [1;31m<ERROR>[0;39m cannot connect board 13
+InspectModule001: MainInit() [1;31m<ERROR>[0;39m cannot connect board 7
+InspectModule001: MainInit() [1;31m<ERROR>[0;39m cannot connect board 7
+InspectModule001: SetErrorCodes() [1;31m<ERROR>[0;39m cannot get rotohandler errorcodes
+InspectModule001: SetErrorCodes() [1;31m<ERROR>[0;39m cannot get rotohandler errorcodes
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: TSmart::SendCommand() [1;31m<ERROR>[0;39m No data written on smartmotor port /dev/ttyS2 (Input/output error)
+InspectModule001: VDaisyChain::GetMotorErrorCodes() [1;31m<ERROR>[0;39m Unknown motortype (-1) for motor 0
+InspectModule001: VDaisyChain::GetMotorErrorCodes() [1;31m<ERROR>[0;39m Unknown motortype (-1) for motor 0
+InspectModule002: ../../motorcontrolmodule/inspecttask/src/inspecttask.cc [1446]: tcflush [1;31m<ERROR>[0;39m - Input/output error
+InspectModule002: ../../motorcontrolmodule/inspecttask/src/inspecttask.cc [1451]: tcsetattr [1;31m<ERROR>[0;39m - Input/output error
+InspectModule002: Tcme2::ReadResponce()[107] [1;31m<ERROR>[0;39m Reading serial port (Input/output error)
+InspectModule002: Tcme2::ReadResponce()[107] [1;31m<ERROR>[0;39m Reading serial port (Input/output error)
+InspectModule002: Tcme2::ReadResponce()[107] [1;31m<ERROR>[0;39m Reading serial port (Input/output error)
+InspectModule002: Tcme2::SendCommand() [1;31m<ERROR>[0;39m Writing serial port (Input/output error)
+InspectModule002: Tcme2::SendCommand() [1;31m<ERROR>[0;39m Writing serial port (Input/output error)
+InspectModule002: Tcme2::SendCommand() [1;31m<ERROR>[0;39m Writing serial port (Input/output error)
+InspectModule002: Tcme2::Send_SetVelocity() [1;31m<ERROR>[0;39m Invalid response (), expected ok
+InspectModule002: Tcme2::Send_SetVelocity() [1;31m<ERROR>[0;39m Invalid response (), expected ok
+InspectModule003: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule004: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule005: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 3
+InspectModule005: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 3
+InspectModule005: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 7
+InspectModule005: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 7
+InspectModule005: [1;31m<ERROR>[0;39m Not able to define board settings for board 0 and pin 9
+InspectModule005: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+InspectModule005: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+InspectModule005: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+InspectModule005: [1;31m<ERROR>[0;39m pin (3) for board type 0 out of range min=0 max=-1
+InspectModule005: [1;31m<ERROR>[0;39m pin (3) for board type 0 out of range min=0 max=-1
+InspectModule005: [1;31m<ERROR>[0;39m pin (7) for board type 0 out of range min=0 max=-1
+InspectModule005: [1;31m<ERROR>[0;39m pin (7) for board type 0 out of range min=0 max=-1
+InspectModule005: [1;31m<ERROR>[0;39m pin (9) for board type 0 out of range min=0 max=-1
+InspectModule005: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (falling edge at pin 3 --> -1)
+InspectModule005: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (falling edge at pin 7 --> -1)
+InspectModule005: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (rising edge at pin 3 --> -1)
+InspectModule005: DefineEvents() [1;31m<ERROR>[0;39m cannot add pulse (rising edge at pin 7 --> -1)
+InspectModule005: DefineRisingEdgeEvent() [1;31m<ERROR>[0;39m cannot add pulse (rising edge at pin 1009 --> -1)
+InspectModule005: GetHomedMotor() [1;31m<ERROR>[0;39m no answer received from motor 1
+InspectModule005: GetMotorErrorCodes( ROTOHANDLER ) [1;31m<ERROR>[0;39m cannot get motor 1 statusword(s)
+InspectModule005: GetMotorErrorCodes( ROTOHANDLER ) [1;31m<ERROR>[0;39m cannot get motor 1 statusword(s)
+InspectModule005: InitSerialDevice() [1;31m<ERROR>[0;39m cannot open device "/dev/ttyS4" (No such file or directory)
+InspectModule005: MainInit() [1;31m<ERROR>[0;39m cannot connect board 13
+InspectModule005: MainInit() [1;31m<ERROR>[0;39m cannot connect board 7
+InspectModule005: MainInit() [1;31m<ERROR>[0;39m cannot connect board 7
+InspectModule005: SetErrorCodes() [1;31m<ERROR>[0;39m cannot get rotohandler errorcodes
+InspectModule005: SetErrorCodes() [1;31m<ERROR>[0;39m cannot get rotohandler errorcodes
+InspectModule005: VDaisyChain::GetMotorErrorCodes() [1;31m<ERROR>[0;39m Unknown motortype (-1) for motor 0
+InspectModule005: VDaisyChain::GetMotorErrorCodes() [1;31m<ERROR>[0;39m Unknown motortype (-1) for motor 0
+InspectModule006: InitSerialDevice() [1;31m<ERROR>[0;39m Not able to open /dev/ttyS5 (No such file or directory)
+InspectModule006: InitSerialDevice() [1;31m<ERROR>[0;39m Not able to open /dev/ttyS5 (No such file or directory)
+InspectModule006: Tcme2::ReadResponce()[107] [1;31m<ERROR>[0;39m Reading serial port (Bad file descriptor)
+InspectModule006: Tcme2::SendCommand() [1;31m<ERROR>[0;39m Writing serial port (Bad file descriptor)
+InspectModule007: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule008: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule009: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule010: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+iomaster: [1;31m<ERROR>[0;39m : Driver communication not started because driver is not loaded.
+iomaster: [1;31m<ERROR>[0;39m : failure starting DriverCommunications to Profinet, now disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m No board (7) found for RotoHandler signal
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Not able to connect to board (7) for alarm signal
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Not able to connect to board (7) for RotoHandler signal
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Not able to connect to BypassInspection board (0)
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Not able to connect to BypassInspection board (0)
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Not able to connect to StatusLight board (7)
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Profinet board not found

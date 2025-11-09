@@ -1,0 +1,97 @@
+SEARCH User_btn.png
+CLICK 434,267
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+ASSERT base-2-136x169_261x43.txt :Current user vimec
+CLICK 779,47
+CLICK 55,302
+CLICK 181,145
+SLEEP 10
+SEARCH Sign_btn.png
+SEARCH vcenter_valid_sign_text.png
+CLICK 193,897
+CLICK 431,193
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 348,197
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 434,267
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+ASSERT base-2-136x169_261x43.txt :Current user vimec
+SLEEP 1
+SEARCH Close_btn.png
+SLEEP 2
+SELECT Configuration_btn.png
+SLEEP 2
+CLICK 47,166
+CLICK 186,223
+CLICK 418,116
+CLICK 656,208
+CLICK 670,238
+CLICK 683,337
+CLICK 689,366
+CLICK 513,108
+CLICK 682,210
+CLICK 681,235
+CLICK 698,346
+CLICK 693,365
+CLICK 348,902
+SELECT yes_btn.png
+CLICK 195,913
+CLICK 553,35
+CLICK 42,237
+CLICK 528,298
+SELECT Setup_btn.png
+CLICK 187,103
+CLICK 530,210
+CLICK 194,437
+CLICK 281,128
+CLICK 286,860
+CLICK 198,596
+SEARCH Inspection_btn.png
+SLEEP 2
+SEARCH start_inspection_btn.png
+SLEEP 5
+CMD :/home/vimec/vic/bin/vic/simulateinputpin 0 -1 500 7 > /dev/null 2>&1 &
+WAIT accept_ins.png
+CMD :ps -ef | grep simulate | grep -v grep | awk '{print $2}' | xargs kill > /dev/null 2>&1 &
+SLEEP 5
+SELECT stop_inspection_btn.png
+SLEEP 5
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 348,197
+SEARCH Close_btn.png
+SEARCH Close_btn.png

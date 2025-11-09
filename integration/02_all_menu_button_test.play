@@ -1,0 +1,81 @@
+SEARCH User_btn.png
+CLICK 313,246
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 355,280
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 350,310
+ASSERT base-2-100x145_245x43.txt :Current user vimec
+CLICK 107,39
+SEARCH Display_btn.png
+SLEEP 1
+SEARCH Inspection_btn.png
+SLEEP 1
+SEARCH Setup_btn.png
+SLEEP 1
+SEARCH History_btn.png
+SLEEP 1
+SEARCH Utilities_btn.png
+SLEEP 1
+SEARCH Configuration_btn.png
+SLEEP 1
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+SLEEP 1
+CLICK 381,160
+SLEEP 1
+CLICK 85,890
+CLICK 107,39
+SEARCH User_btn.png
+SLEEP 1
+CLICK 313,246
+SLEEP 1
+PRESS Key s
+PRESS Key u
+PRESS Key p
+PRESS Key e
+PRESS Key r
+PRESS Key v
+PRESS Key i
+PRESS Key s
+PRESS Key o
+PRESS Key r
+SLEEP 1
+CLICK 355,280
+SLEEP 1
+PRESS Key s
+PRESS Key u
+PRESS Key p
+PRESS Key e
+PRESS Key r
+PRESS Key v
+PRESS Key i
+PRESS Key s
+PRESS Key o
+PRESS Key r
+SLEEP 1
+CLICK 350,310
+SLEEP 1
+ASSERT base-2-100x145_245x43.txt :Current user supervisor
+SLEEP 1
+SEARCH User_btn.png
+SLEEP 1
+CLICK 381,160
+SLEEP 1
+SEARCH Close_btn.png
+SEARCH Close_btn.png

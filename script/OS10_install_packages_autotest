@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# login as root user
+echo password | sudo -S 
+
+# install package in the system
+REQUIRED_PKG="python3-tk python3-dev gcc tesseract-ocr scrot wget unzip"
+for i in $REQUIRED_PKG; do
+    PKG_OK=$(dpkg-query -W --showformat='${Status}\n' $i|grep "install ok installed")
+    echo Checking for $i: $PKG_OK
+    if [ "" = "$PKG_OK" ]; then
+        echo "No $i. Setting up $i."
+        sudo apt-get update
+        sudo apt-get --yes install $i
+    fi
+done
+
+#install python libary in the system.
+sudo python3 -m pip install --upgrade pip
+sudo python3 -m pip install -r requirements.txt

@@ -1,0 +1,93 @@
+VERIFY_CMD :cd /home/vimec/vic ; ls | grep messagelog && rm messagelog* ; echo "messagelogs removed.": Expected output:messagelogs removed.
+SEARCH User_btn.png
+CLICK 313,246
+PRESS Key s
+PRESS Key u
+PRESS Key p
+PRESS Key e
+PRESS Key r
+PRESS Key v
+PRESS Key i
+PRESS Key s
+PRESS Key o
+PRESS Key r
+CLICK 355,280
+PRESS Key s
+PRESS Key u
+PRESS Key p
+PRESS Key e
+PRESS Key r
+PRESS Key v
+PRESS Key i
+PRESS Key s
+PRESS Key o
+PRESS Key r
+CLICK 350,310
+ASSERT base-2-100x145_245x43.txt :Current user supervisor
+SEARCH Utilities_btn.png
+CLICK 45,136
+CLICK 777,922
+CLICK 665,499
+CLICK 620,527
+CLICK 214,921
+CLICK 50,40
+CLICK 418,189
+SEARCH OK_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 381,160
+SEARCH Close_btn.png
+SLEEP 1
+VERIFY_CMD :cd /home/vimec/vic/; less messagelog-* | grep vicdisplayvalidation | cut -d " " -f9- | grep "finished (rc=-1)": Expected output:
+VERIFY_CMD :cd /home/vimec/vic ; ls | grep messagelog && rm messagelog* ; echo "messagelogs removed.": Expected output:messagelogs removed.
+SEARCH User_btn.png
+CLICK 64,896
+SLEEP 1
+SEARCH User_btn.png
+CLICK 313,246
+PRESS Key s
+PRESS Key u
+PRESS Key p
+PRESS Key e
+PRESS Key r
+PRESS Key v
+PRESS Key i
+PRESS Key s
+PRESS Key o
+PRESS Key r
+CLICK 355,280
+PRESS Key s
+PRESS Key u
+PRESS Key p
+PRESS Key e
+PRESS Key r
+PRESS Key v
+PRESS Key i
+PRESS Key s
+PRESS Key o
+PRESS Key r
+CLICK 350,310
+ASSERT base-2-100x145_245x43.txt :Current user supervisor
+SEARCH Utilities_btn.png
+CLICK 45,136
+CLICK 777,922
+CLICK 665,499
+CLICK 620,527
+CLICK 214,921
+CLICK 50,40
+CLICK 418,189
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+VERIFY_CMD :cd /home/vimec/vic/; less messagelog-* | grep vicdisplayvalidation | cut -d " " -f9- | grep "finished (rc=-1)": Expected output:
+SEARCH OK_btn.png
+SEARCH Close_btn.png
+CLICK 64,896
+SEARCH Close_btn.png
+SEARCH User_btn.png
+SLEEP 1
+CLICK 381,160
+SLEEP 1
+SEARCH Close_btn.png
+SEARCH Close_btn.png

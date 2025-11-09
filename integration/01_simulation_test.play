@@ -1,0 +1,9 @@
+CMD :/home/vimec/scripts/killvcenter > /dev/null 2>&1 &
+SLEEP 5
+CMD :rm -f /home/vimec/vic/validate/CiValidation
+CMD :/home/vimec/scripts/vcenter > /dev/null 2>&1 &
+SLEEP 50
+WAIT User_btn.png
+CMD :/home/vimec/vic/bin/vic/simulateinputpin 0 2 900 14 > /home/vimec/vic/validate/CiValidation 2>&1 &
+SLEEP 10
+VERIFY_CMD :cat /home/vimec/vic/validate/CiValidation | wc -l: Expected output:2

@@ -1,0 +1,50 @@
+ <html>
+      <body>
+        <p>TEXT_TO_BE_ADDED
+<style>
+	.demo {
+		border:1px solid #E8E8E8;
+		border-collapse:collapse;
+		border-spacing:2px;
+		padding:4px;
+      border-width: 1px;
+	}
+	.demo caption {
+		caption-side:bottom;
+		text-align:center;
+	}
+	.demo th {
+		border:1px solid #E8E8E8;
+		padding:4px;
+		background:#FFD500;
+      color: #333333;      
+	}
+	.demo td {
+		border:1px solid #E8E8E8;
+		text-align:left;
+		padding:4px;
+		background:#F5F5F5;
+      color: #333333;
+	}
+</style>
+<table class="demo">
+	<thead>
+	<tr>
+		<th>Commit</th>
+		<th>Issue</th>
+		<th>Title</th>
+		<th>Info?</th>
+	</tr>
+	</thead>
+	<tbody>
+
+
+ROW_INFO_HERE
+
+
+	</tbody>
+</table>
+
+        </p>
+      </body>
+    </html>

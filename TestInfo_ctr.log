@@ -1,0 +1,2414 @@
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7768]
+07-28 14:20:            INFO     mentioned in commit 717bb9a74553343b6ab12f9a6a566e3b76191925
+07-28 14:20:            INFO     mentioned in commit 3473fa7d9f22e96a6e7ef55ef6566e62d47b9ef3
+07-28 14:20:            INFO     assigned to @jan.wilmans
+07-28 14:20:            INFO     mentioned in commit 3ef2676007ad48ccabe80ce9dc16dca5a9088f5e
+07-28 14:20:            INFO     mentioned in merge request !7501
+07-28 14:20:            INFO     created branch [`7768-os-12-vcenter-not-starting-after-vsync-sh`](/Vimec/v-center-linux/-/compare/develop...7768-os-12-vcenter-not-starting-after-vsync-sh) to address this issue
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7763]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7763]
+07-28 14:20:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that after installation of the packages `/etc/vimec/smtp.ini` no longer exists.
+07-28 14:20:            INFO     mentioned in commit e59858f55befd9689e7636e3e4ebc4c031d2ba49
+07-28 14:20:            INFO     mentioned in commit dd8145fa478131bb6adcf5f789dee0cc0f6db8bd
+07-28 14:20:            INFO     mentioned in merge request !7500
+07-28 14:20:            INFO     created branch [`7763-remove-etc-vimec-smtp-ini-at-installation-postinst`](/Vimec/v-center-linux/-/compare/develop...7763-remove-etc-vimec-smtp-ini-at-installation-postinst) to address this issue
+07-28 14:20:            INFO     assigned to @stefan.spronkmans
+07-28 14:20:            INFO     marked this issue as related to service#666
+07-28 14:20:            INFO     mentioned in issue service#666
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7751]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7751]
+07-28 14:20:            INFO     ## Test info
+### Testing needed?
+No, it is part of tidying
+07-28 14:20:            INFO     mentioned in commit 37129162fa9173710e7e8fd25e720ca673632abe
+07-28 14:20:            INFO     mentioned in commit a87d03e24029dd97a70b4bfb30a5f0df29716319
+07-28 14:20:            INFO     mentioned in commit 7d3ce3cd6470496ae9ef4f9c9c8ed0eba93b4b70
+07-28 14:20:            INFO     mentioned in commit 959d9ab8b94eddc123e45674361a43a516d1a3fd
+07-28 14:20:            INFO     mentioned in commit 78c7e352eab56b833791be6346f23f8f58bd8e97
+07-28 14:20:            INFO     ## Test info
+### Testing needed?
+No, it is part of tidying
+07-28 14:20:            INFO     mentioned in merge request !7486
+07-28 14:20:            INFO     created branch [`7751-tidy-up-syringeambeg-mode-421`](/Vimec/v-center-linux/-/compare/develop...7751-tidy-up-syringeambeg-mode-421) to address this issue
+07-28 14:20:            INFO     <p>changed title from <code class="idiff">Tidy up syringeAmbeg mode<span class="idiff left right deletion"> 428</span></code> to <code class="idiff">Tidy up syringeAmbeg mode</code></p>
+07-28 14:20:            INFO     mentioned in commit b05adec4f1414e334b61fb729edcc69c3890334a
+07-28 14:20:            INFO     mentioned in commit b96a57ab38cf21513dc8583b4207f451af7a538f
+07-28 14:20:            INFO     mentioned in commit f1a38c6eba33aafaa2727ae72b6d057014de49b1
+07-28 14:20:            INFO     mentioned in commit a20ba0c2bf2554ab9049bbbf5f58fde457cf27bd
+07-28 14:20:            INFO     mentioned in commit b28a2d5a9c006584f86940d4511b9d73eab87b82
+07-28 14:20:            INFO     mentioned in commit a47b3e9417fe615151c49a0b5d94aed5dfd6600b
+07-28 14:20:            INFO     mentioned in commit e1b0a36d190beb147c14ef1ea126a82b06b4b82c
+07-28 14:20:            INFO     mentioned in commit f1c25d047e31a7662540de2ae08bdb3116fd6632
+07-28 14:20:            INFO     mentioned in commit 02622226b7bd22912a0328313d4b389fd595382d
+07-28 14:20:            INFO     mentioned in commit 5f7f7beda9f6b7ddf5bfac0767373ec366810166
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7751]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7761]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7761]
+07-28 14:20:            INFO     mentioned in commit 24f82d79c2c5f252f8e1a88da27325d54fa4ae2f
+07-28 14:20:            INFO     mentioned in commit f2dd33e95ad03aacb3b39c2916edf6daa13eb5c3
+07-28 14:20:            INFO     mentioned in merge request !7496
+07-28 14:20:            INFO     created branch [`7761-add-vmonitor_test-py-to-ctest-so-it-also-runs-in-ci`](/Vimec/v-center-linux/-/compare/develop...7761-add-vmonitor_test-py-to-ctest-so-it-also-runs-in-ci) to address this issue
+07-28 14:20:            INFO     assigned to @jan.wilmans
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7760]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7760]
+07-28 14:20:            INFO     mentioned in commit 4cc27e0c8eef801e50f502682c46d4e4dcd9a20d
+07-28 14:20:            INFO     mentioned in commit 2d2b029f30e3256845cc420e52c7e924f29c683c
+07-28 14:20:            INFO     mentioned in commit e5ffeb067240828da7decbdff8513fa5fbcac4f2
+07-28 14:20:            INFO     mentioned in commit 8f7dff9066f3b9daee7d459c234a03437eeb3444
+07-28 14:20:            INFO     mentioned in commit a3d6c3618222a7b05cd3972a6dcdbd8211e35d18
+07-28 14:20:            INFO     mentioned in merge request !7495
+07-28 14:20:            INFO     created branch [`7760-log-files-are-always-forcibly-rotated`](/Vimec/v-center-linux/-/compare/develop...7760-log-files-are-always-forcibly-rotated) to address this issue
+07-28 14:20:            INFO     changed the description
+07-28 14:20:            INFO     mentioned in issue #7758
+07-28 14:20:            INFO     assigned to @stefan.spronkmans
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7760]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7705]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7705]
+07-28 14:20:            INFO     mentioned in commit d43750e2c9643e4522a19fcc1da3b722bac4b7c3
+07-28 14:20:            INFO     mentioned in commit e17c59a8b3b96960bb7fdd9d762d6a64a07bbd31
+07-28 14:20:            INFO     mentioned in merge request !7494
+07-28 14:20:            INFO     created branch [`7705-vmonitor-logs-lines-containing-as-empty`](/Vimec/v-center-linux/-/compare/develop...7705-vmonitor-logs-lines-containing-as-empty) to address this issue
+07-28 14:20:            INFO     assigned to @jan.wilmans
+07-28 14:20:            INFO     see also #7250
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7757]
+07-28 14:20:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:20:            INFO     [#7757]
+07-28 14:21:            INFO     mentioned in commit 7bbe1094afb07ef19bf5dd2ec7c32f0892578a5f
+07-28 14:21:            INFO     mentioned in commit 94020c6e7d8f747fe040e13c0d165c5f2cc4f26c
+07-28 14:21:            INFO     mentioned in commit 4db37ebbb582e4a1362fd6bf24799cbd59b3e338
+07-28 14:21:            INFO     mentioned in commit 4a63cd5ba57004b4a534f9fa8dbd9df5635c8797
+07-28 14:21:            INFO     mentioned in commit 6b688203f4f76b88c3076602b730b814ec30ed62
+07-28 14:21:            INFO     mentioned in commit fbd46dff7c55d4614cf2efef37546b16f7a86a2c
+07-28 14:21:            INFO     mentioned in commit c1bd3f22c2520366704588798067ab5b9f0417e0
+07-28 14:21:            INFO     mentioned in commit 5a156c83b5279bb732ac2763cffd90a60848759e
+07-28 14:21:            INFO     mentioned in commit b88e344fb0d6b09c8c4578014b9148baf64b2088
+07-28 14:21:            INFO     mentioned in commit 7cb4daaba01c74fb40ae8239a5685689ec36ec8c
+07-28 14:21:            INFO     mentioned in merge request !7490
+07-28 14:21:            INFO     created branch [`7757-add-functionality-to-permanently-close-job-on-titan`](/Vimec/v-center-linux/-/compare/develop...7757-add-functionality-to-permanently-close-job-on-titan) to address this issue
+07-28 14:21:            INFO     assigned to @stefan.spronkmans
+07-28 14:21:            INFO     added Vimec#38 as parent epic
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7757]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7711]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7711]
+07-28 14:21:            INFO     Issue #16382 is not closed; skipping.
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7741]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7741]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No, vmonitor is a developer tool
+07-28 14:21:            INFO     mentioned in commit 00b2a4804d0ccf1fde1f68f2fd30b4dd08723578
+07-28 14:21:            INFO     mentioned in commit 068aa56454316e722b12ef9a7ac739140b11d111
+07-28 14:21:            INFO     mentioned in commit 1d4e47d0746d3c784310aefbd8ab4b9f6d910bf3
+07-28 14:21:            INFO     mentioned in commit 6cc8a24e3ef01bdab1451416cb314bc8c1969c87
+07-28 14:21:            INFO     assigned to @jan.wilmans
+07-28 14:21:            INFO     mentioned in merge request !7491
+07-28 14:21:            INFO     created branch [`7741-vmonitor-dies-if-a-utf-8-decode-fails`](/Vimec/v-center-linux/-/compare/develop...7741-vmonitor-dies-if-a-utf-8-decode-fails) to address this issue
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     this caused by printing garbage chars in debug logging
+07-28 14:21:            INFO     ![image](/uploads/c32f7ff549eb604b93f2b403be5e38ef/image.png){width=1138 height=387}
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7741]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7741]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7747]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7747]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+Yes
+Verify that the Areascan module 400 still works correctly
+07-28 14:21:            INFO     mentioned in commit 9afdb5f1577ad227daa0c8c509d08b643ccc1cb6
+07-28 14:21:            INFO     mentioned in commit 0b4ce44f42c3973c8bf208cd335bcebbd5177d87
+07-28 14:21:            INFO     mentioned in commit e30c64b2901fd2c7eceb0caefd4ff353132cc53b
+07-28 14:21:            INFO     mentioned in commit 8f3482f0c5667112bcb6844ffb259726a078139b
+07-28 14:21:            INFO     mentioned in commit b2a2358ef00f7e9f1ed9a8f2f5228d3f9fdab5f9
+07-28 14:21:            INFO     mentioned in commit d307da85b4fed04f4894f713bc89a603fcbb8250
+07-28 14:21:            INFO     mentioned in commit 1faa511beb35f4c08c2747e8d3ee5073ff240935
+07-28 14:21:            INFO     mentioned in commit df9f0413bc9724d3a8ffb4b4251e2a4b8a39609c
+07-28 14:21:            INFO     mentioned in commit 3c413c657e4cbc414a11bb474ea979d056f8274a
+07-28 14:21:            INFO     mentioned in commit e13da33f3004b44489cc7c2662cb881120fc4670
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7747]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7747]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     Issue #16411 is not closed; skipping.
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     mentioned in commit ab9bc67686be3dc2cf55ddb5d7fce99862f2f93e
+07-28 14:21:            INFO     mentioned in commit 3e964505fc197c0233ff836f7a5e98c909784715
+07-28 14:21:            INFO     mentioned in commit ac8591ab837f3c2bb53c8501019d3005c4360f7f
+07-28 14:21:            INFO     mentioned in commit 5f8b09b49052afad6e9e4f215e34778676765341
+07-28 14:21:            INFO     mentioned in commit 3a9729bdc4e85fb7fa29253ef51143868b906e0f
+07-28 14:21:            INFO     mentioned in commit c8cda1dc3a2502b2a8327835971bfeec6bcb049d
+07-28 14:21:            INFO     mentioned in commit 6271b2b90f64563f189ee64dbbaa17a9e0dd8bc7
+07-28 14:21:            INFO     mentioned in commit 141510045f0ef1fa7c4b4f0e3f3a97a5eb733151
+07-28 14:21:            INFO     mentioned in commit a018fb7ff11b5c87bf77230aeeb583e45b09df89
+07-28 14:21:            INFO     mentioned in commit 222d325b93c279d29fbf443710204ba4b0470984
+07-28 14:21:            INFO     mentioned in commit deb3c6112fbbcdb5958259a6eb55aa841b6ceb29
+07-28 14:21:            INFO     mentioned in commit 514df39c32533bdec84b7b1c725fdb75421f2241
+07-28 14:21:            INFO     mentioned in commit b143cd109f145c4b5d2ef1f7eee5c37c59150b84
+07-28 14:21:            INFO     mentioned in commit 21ef5a67a11626a22a2d6de6f8390311b2eb6e44
+07-28 14:21:            INFO     mentioned in commit decffd696a465b5c6ccf27b54566e0848bf4cdb1
+07-28 14:21:            INFO     mentioned in commit e16fc944e2c9444831494b2d5747078cfb65331e
+07-28 14:21:            INFO     mentioned in commit 6985a6d4fdd6264ed6cb55f21655a0a568389e3f
+07-28 14:21:            INFO     mentioned in commit c01578c2b7fa54871ee35dd31333713d42420642
+07-28 14:21:            INFO     mentioned in commit 9390f4b7bd010748ae1f58b02c28ef9109a60a9c
+07-28 14:21:            INFO     mentioned in commit cb4336b627c307cc298096d7ecbc91f7ffdcfb96
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7752]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7754]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7754]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No
+07-28 14:21:            INFO     mentioned in commit 1c5cc1ce9e9b4992ccf3b96ab4906fe66e7ec563
+07-28 14:21:            INFO     mentioned in commit 6393d850aa14fd68297e59d35cd4b0fce1f35459
+07-28 14:21:            INFO     mentioned in merge request !7487
+07-28 14:21:            INFO     created branch [`7754-remove-leftover-files-from-oceanoctips-module`](/Vimec/v-center-linux/-/compare/develop...7754-remove-leftover-files-from-oceanoctips-module) to address this issue
+07-28 14:21:            INFO     assigned to @jan.wilmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7751]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, tidying
+07-28 14:21:            INFO     mentioned in commit 8274bf3d3e58120a416a5b925f05840a17728a42
+07-28 14:21:            INFO     mentioned in commit 38d35752698976f37fbf29bd799ba17616946944
+07-28 14:21:            INFO     mentioned in commit c53f3528eed1c29d6918a3a9e7158ec8f5e2f2ae
+07-28 14:21:            INFO     mentioned in commit b94807ac515d87c869ba79f3480e33c53dc85eb9
+07-28 14:21:            INFO     mentioned in commit 9005bde8f788dc1f51d3b7ea8c5ae774316f7530
+07-28 14:21:            INFO     mentioned in commit ea09b22e2b3dea7709eb3a319c096e4fee1b0839
+07-28 14:21:            INFO     mentioned in commit bd16c84919e3df137618556fbceb4907c2acc8a0
+07-28 14:21:            INFO     mentioned in commit fa607d7f40a2688f4627d98682105e8e39ca3420
+07-28 14:21:            INFO     mentioned in commit 66edcaf66ae59ec4cb9ff307de4a3748de4d734f
+07-28 14:21:            INFO     mentioned in commit 4d3c12d576e5370251d93f016fddbed22b15b3dd
+07-28 14:21:            INFO     mentioned in commit 06c5a0155218833b88734ebdcd9db93bddc01262
+07-28 14:21:            INFO     mentioned in commit 8324b6c87dccc9ed9fffeb4f24c04f683872bbe9
+07-28 14:21:            INFO     mentioned in commit a1030e1b1b5266d34ec6043c23a7d768b8355e20
+07-28 14:21:            INFO     mentioned in commit 917324cb4f17b1348e06b9c556f15a7305e20c48
+07-28 14:21:            INFO     mentioned in commit d381a47507d6be08df6c9e52a43bf95aab1c389b
+07-28 14:21:            INFO     mentioned in commit beafb312453b8e827eee5fa2bfa3eda667056440
+07-28 14:21:            INFO     mentioned in commit e74eb175ca032e9f2ed53b3fd692b89b2e0a2440
+07-28 14:21:            INFO     mentioned in commit 6f43dd0e73258a136d869687fde66b834be4ec79
+07-28 14:21:            INFO     mentioned in commit 6a4da5786ca6c1fe40d6b1dc84351e9889439331
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7748]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, it is part of tidying
+07-28 14:21:            INFO     mentioned in commit abd99b19d8e8e212c0f9676d16e1d0c5178fe7a7
+07-28 14:21:            INFO     mentioned in commit bb1995944724f97aa1e1584da2b290769a087d62
+07-28 14:21:            INFO     mentioned in commit 88c98c65e60344781ab01bad76c401f50661d633
+07-28 14:21:            INFO     mentioned in commit 0c0e5d2f1f56f70a7a55a7ba390c8bd79a0ba9c0
+07-28 14:21:            INFO     mentioned in commit d2ef015774abb3c237fa325ddf60786e4e03dc3a
+07-28 14:21:            INFO     mentioned in commit d15997952b22966e97fd7f7069b39e1b882303a1
+07-28 14:21:            INFO     mentioned in commit ad6987a54827525d4fff7fb9684a63c2c4e485c7
+07-28 14:21:            INFO     mentioned in commit d3a44f4593c78bd2db4ad80371f9f927fb0f8d87
+07-28 14:21:            INFO     mentioned in commit 611532234ebe03645b4fbbbfd463cdca9f9889cc
+07-28 14:21:            INFO     mentioned in commit 7e24fdd6e172ad2bb52ae5549618fe79e096b61f
+07-28 14:21:            INFO     mentioned in commit c453004693e52ba67a97a024f5c20b381002cf74
+07-28 14:21:            INFO     mentioned in commit 023c6e5282b97c13ae60a5e67bcb81250cd726ad
+07-28 14:21:            INFO     mentioned in commit 80a1895798924c7a9935ff58ec763d9a66c4bb82
+07-28 14:21:            INFO     <p>changed title from <code class="idiff">Tidy up syringeAmbeg</code> to <code class="idiff">Tidy up syringeAmbeg<span class="idiff left right addition">- mode 421</span></code></p>
+07-28 14:21:            INFO     mentioned in commit 78e4ab25e078caf96f564537e08a4e043fb19dca
+07-28 14:21:            INFO     mentioned in commit bc4ac927f9cbb8209548c3bfbf3d699bd6e3a8fc
+07-28 14:21:            INFO     mentioned in commit b68dcd2d730a2eadcc775d293ce792a8c3d35e60
+07-28 14:21:            INFO     mentioned in commit aee6cc7458b4455675ac89c7957af39edbaded69
+07-28 14:21:            INFO     mentioned in commit 8ec65b7315c3354077a52e04d7799b929295cf6b
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7503]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+Yes
+### Modules affected
+Areascan module
+### Steps to test the issue
+Verify that module mode 100 is no longer available.
+07-28 14:21:            INFO     mentioned in commit b4bc518937f106685d941331687a4059bff568c5
+07-28 14:21:            INFO     mentioned in commit e3ffc007c750049ec43aafb527da3473a78004de
+07-28 14:21:            INFO     mentioned in commit 6f0b815a607f433ebd043a0eebb9bb0bc50a6693
+07-28 14:21:            INFO     mentioned in commit 62c1f26e4b342686d902b18e9f94066f587521b5
+07-28 14:21:            INFO     mentioned in commit 0a4b7af63e090f82a30125349fb68d7beefcc9ba
+07-28 14:21:            INFO     mentioned in commit b22964447cbd087fd81de905c19d3933c55dbb79
+07-28 14:21:            INFO     mentioned in commit 862069b2f4abdb82832b45ba9f511a89c8d30386
+07-28 14:21:            INFO     mentioned in commit dc0ac6db76f5bb2ea5a5b68061ab68c5822db675
+07-28 14:21:            INFO     mentioned in commit d89084a8edd690db7b96a763e4a16dc0395e6a2a
+07-28 14:21:            INFO     mentioned in commit da008fd4d69c6aee9e16f81d66719852edd96b8e
+07-28 14:21:            INFO     mentioned in commit 820784d4e204a8d85a0229f0149947105f2a1f18
+07-28 14:21:            INFO     mentioned in commit 3ea053fda50035f1f8ff9a40a20bfb852abe3f5e
+07-28 14:21:            INFO     mentioned in commit 10d0c99412e5ff3c5cbc07b158289f4d6e5dd220
+07-28 14:21:            INFO     mentioned in commit 8302cefee0d30c48d6fcca67739d5852c876506c
+07-28 14:21:            INFO     mentioned in commit a57df7dc2aac3684c0d0d4c35b40b4897ce6272a
+07-28 14:21:            INFO     mentioned in commit 5cda491dfeadff8ba556a66d83afb59a31ef8ff9
+07-28 14:21:            INFO     mentioned in commit 7cb5eb776c13b2e93e907024814af390891498c9
+07-28 14:21:            INFO     mentioned in merge request !7478
+07-28 14:21:            INFO     created branch [`7746-remove-areascan-module-mode-100`](/Vimec/v-center-linux/-/compare/develop...7746-remove-areascan-module-mode-100) to address this issue
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7746]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7745]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7745]
+07-28 14:21:            INFO     
+## Test info
+### Testing needed?
+No
+07-28 14:21:            INFO     ## not working situation 'System Information'
+
+![image](/uploads/c7dd288b64e866fa72b6837b2325e304/image.png){width=994 height=181}
+
+## working situation
+
+![image](/uploads/7a5c236aa4928e321ca1cc4245df9ce3/image.png)
+07-28 14:21:            INFO     ## Summary
+
+this solution is still not working on 'my machine' (Dell Precision 3581) 
+
+Also tried to add:
+
+![image](/uploads/ec093ffeea0385d3f2478aa617646c8b/image.png){width=570 height=192}
+
+No effect, still not working.
+07-28 14:21:            INFO     ## before:
+
+![image](/uploads/91b2b9f1749646d287591d99ece32c5b/image.png){width=279 height=240}
+
+![image](/uploads/048aca9a8754e1e1310596d46a553b16/image.png){width=389 height=195}
+
+![image](/uploads/53f7dfc287770af137ea6c4ebdadcbe0/image.png){width=525 height=66}
+
+![image](/uploads/fc4a21b57f6f76949b191da90bb91c24/image.png){width=495 height=45}
+
+![image](/uploads/b3b5f5975a005ac764b6d536b6e5ee8f/image.png){width=396 height=34}
+
+## modification
+
+```
+C:\Program Files\Oracle\VirtualBox>VBoxManage.exe list vms
+"buster-vcenter" {27864627-51ad-4c4d-a71f-ea5ac5dbfa5d}
+"bookworm-vcenter" {544fd548-2477-492c-9d7b-706cbade7546}
+
+C:\Program Files\Oracle\VirtualBox>
+```
+
+```
+C:\Program Files\Oracle\VirtualBox>VBoxManage.exe modifyvm "bookworm-vcenter" --nested-hw-virt on
+C:\Program Files\Oracle\VirtualBox>VBoxManage.exe setextradata "bookworm-vcenter" VBoxInternal/CPUM/IsaExts/AVX 1
+C:\Program Files\Oracle\VirtualBox>VBoxManage.exe setextradata "bookworm-vcenter" VBoxInternal/CPUM/IsaExts/AVX2 1
+```
+
+## after
+
+New messages:
+
+![image](/uploads/30f01ce6a1731a18d6a5a4631678ca30/image.png){width=336 height=43}
+
+Unchanged?
+
+![image](/uploads/ba264c684fff243032f2830f2710ea31/image.png){width=476 height=32}
+
+![image](/uploads/e34c8d4823f7c6e5952562dcfc5238e3/image.png){width=468 height=60}
+07-28 14:21:            INFO     mentioned in commit 9c68938cb35119c9bcbdf7358c7a18259ae7b049
+07-28 14:21:            INFO     mentioned in commit 4917d29f2cd406d977b146fdfb00b6ee35c1c4e7
+07-28 14:21:            INFO     mentioned in commit d6e645bf35e80fe2529d68e028a718257246d829
+07-28 14:21:            INFO     mentioned in merge request !7477
+07-28 14:21:            INFO     created branch [`7745-updating-the-onboarding-document-to-enable-avx2-in-virtual-box`](/Vimec/v-center-linux/-/compare/develop...7745-updating-the-onboarding-document-to-enable-avx2-in-virtual-box) to address this issue
+07-28 14:21:            INFO     assigned to @jefin.paul
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7731]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+Yes
+### Modules affected
+Areascan module
+### Steps to test the issue
+Verify that module mode 200 is no longer available.
+07-28 14:21:            INFO     mentioned in commit 51331f36ae40f9733fee28886115bb5a0a21e483
+07-28 14:21:            INFO     mentioned in commit bf00f5c1d9559f75b67c9307083ed7adbbf12692
+07-28 14:21:            INFO     mentioned in commit 201cbf776cbe1a469ed6c8caf8eaf371b8da747c
+07-28 14:21:            INFO     mentioned in commit 6783a499b3f9d92d4a443da243f85f853d19b706
+07-28 14:21:            INFO     mentioned in commit 42fac6a35c1c5743f05614ad0cb359fbbda69bba
+07-28 14:21:            INFO     mentioned in commit 722b67623e58922bad88b1d7a4cf7f34b07ca3c3
+07-28 14:21:            INFO     mentioned in commit 12d42825d2dae11fa3766c8ced7e73d974611db3
+07-28 14:21:            INFO     mentioned in commit 54aa78f391a60b1bf096557c7a5c624ca4e085b1
+07-28 14:21:            INFO     mentioned in commit 78eba34fa25f09a31b137a280e75ffe2ba2a5301
+07-28 14:21:            INFO     mentioned in commit a6663f9855e22adbdad7c7e14a9c6d56f9d9ec32
+07-28 14:21:            INFO     mentioned in commit fea06bcd7a58200450e60f06bc7e0f95cd24fcda
+07-28 14:21:            INFO     mentioned in commit c6732b8b2e07bd54ebb3bbaf553fe5d5896a117b
+07-28 14:21:            INFO     mentioned in commit 283d33258fea9dbd44fd0cdc95faec98f23cee20
+07-28 14:21:            INFO     mentioned in commit a281c9f49f1ada1b95a2e329114c1712189308a1
+07-28 14:21:            INFO     mentioned in commit 11413c12483eb62798ca94534f745b7b8cd06e23
+07-28 14:21:            INFO     mentioned in commit f23d0f35bf5bafdf0401c215c1c1a61b106e4b2e
+07-28 14:21:            INFO     mentioned in merge request !7472
+07-28 14:21:            INFO     created branch [`7742-remove-areascan-module-mode-200`](/Vimec/v-center-linux/-/compare/develop...7742-remove-areascan-module-mode-200) to address this issue
+07-28 14:21:            INFO     assigned to @stefan.spronkmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7742]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7743]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7743]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No, the oceanoptics module was removed
+07-28 14:21:            INFO     mentioned in commit fef04af5a87bb7279a99fe1e246e7e2fdb7edd93
+07-28 14:21:            INFO     mentioned in commit 453fa7e87182e62007354fa6431b39fa158260f6
+07-28 14:21:            INFO     mentioned in commit 3db8f03c6ce42eca7977d2f78f51662d88bca0c6
+07-28 14:21:            INFO     mentioned in commit e97975267f96b2583bdd88887b03a4cf12ac33c5
+07-28 14:21:            INFO     mentioned in commit 32cf9f2c19310656e53f3a659de61462c0a7ed9d
+07-28 14:21:            INFO     mentioned in merge request !7473
+07-28 14:21:            INFO     created branch [`7743-remove-oceanoptics-module`](/Vimec/v-center-linux/-/compare/develop...7743-remove-oceanoptics-module) to address this issue
+07-28 14:21:            INFO     assigned to @jan.wilmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7725]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7725]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No, the Cope module and areascan module mode 200 were removed
+07-28 14:21:            INFO     mentioned in commit 4cbf9cd5bcd27465ce5810813ea4101925daee22
+07-28 14:21:            INFO     mentioned in commit a0eb79658bbe6c9ddf20fce1ea2a54363afea68e
+07-28 14:21:            INFO     mentioned in commit 3d225807e65c01da79043e58ecab357520a15cf7
+07-28 14:21:            INFO     mentioned in commit def5d315de98e7ee87a2680593f6118cae5c8ca7
+07-28 14:21:            INFO     mentioned in commit 243a9ef2b42acc82df5987bfa3410d4ce14ce03a
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     mentioned in commit 1f3fd84b91bad2881bd53dcefe5b7546344f18f9
+07-28 14:21:            INFO     mentioned in commit b7d3fe1bc0fa95c4be2a0515f9228f70327f05d6
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     mentioned in commit 0eecd3b3ac3bd38bc25eb8c96ca9a76890e07f56
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     mentioned in merge request !7463
+07-28 14:21:            INFO     created branch [`7725-remove-cope-module`](/Vimec/v-center-linux/-/compare/develop...7725-remove-cope-module) to address this issue
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7725]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7728]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7728]
+07-28 14:21:            INFO     Issue #16406 is not closed; skipping.
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7738]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7738]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No, vsync is a developer only tool
+07-28 14:21:            INFO     mentioned in commit 2023aa3eeff65a74878e20528abf0ca727d53e08
+07-28 14:21:            INFO     mentioned in commit fae674c77747de84db7bb8e51509247b3f62a5b9
+07-28 14:21:            INFO     mentioned in commit 94f33fe144bda3376dda84a56460ad82c774822e
+07-28 14:21:            INFO     mentioned in merge request !7474
+07-28 14:21:            INFO     created branch [`7738-vsync-not-working-on-buster-and-screws-up-the-system`](/Vimec/v-center-linux/-/compare/develop...7738-vsync-not-working-on-buster-and-screws-up-the-system) to address this issue
+07-28 14:21:            INFO     assigned to @jan.wilmans
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     <p>changed title from <code class="idiff">vsync not working on buster, a<span class="idiff left right deletion">lso after running twice</span></code> to <code class="idiff">vsync not working on buster, a<span class="idiff left right addition">nd screws up the system</span></code></p>
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7740]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7740]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that when starting V-Center while the system has an active error, the buzzer of the stacklight is turned on for the configured duration.
+07-28 14:21:            INFO     mentioned in commit cac61038e85dc292cb37226c8d68ae0bb704d88a
+07-28 14:21:            INFO     mentioned in issue #7724
+07-28 14:21:            INFO     mentioned in commit 436c5c3ec58ce4a43eb16a682d8ad6eb848d1bd0
+07-28 14:21:            INFO     mentioned in commit 62800b65a3727c212ac3cfe0f8fa40541f7687db
+07-28 14:21:            INFO     mentioned in merge request !7471
+07-28 14:21:            INFO     created branch [`7740-stacklight-buzzer-not-triggered-when-starting-v-center-on-a-system-with-an-active-error`](/Vimec/v-center-linux/-/compare/develop...7740-stacklight-buzzer-not-triggered-when-starting-v-center-on-a-system-with-an-active-error) to address this issue
+07-28 14:21:            INFO     assigned to @stefan.spronkmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7737]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7737]
+07-28 14:21:            INFO     mentioned in issue #7726
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+Yes, already tested, but you can verify the hardware connection using the `stacklight` demo program (ask the SW test), it is literally called `stacklight` but it needs to be build for the specific platform your are on. (OS-10 or OS-12).
+
+Then, the error states can be tested by introducing a real error and verifying the behavior.
+It might be good to test what happens when the vcenter starts up with and without an error already active.
+07-28 14:21:            INFO     mentioned in commit 7114d8956d58380ed7922e23e6d68d52d2fe4753
+07-28 14:21:            INFO     mentioned in commit 2b5274a4c116eac9bb64fd96f97e8e07d11f5d86
+07-28 14:21:            INFO     mentioned in issue #7724
+07-28 14:21:            INFO     mentioned in commit e78e49e7c8789e1dcc15b79103894bcb80773fcc
+07-28 14:21:            INFO     mentioned in merge request !7470
+07-28 14:21:            INFO     created branch [`7737-stack-light-when-the-e-stop-is-turned-on-the-usb-stack-light-does-not-buzz`](/Vimec/v-center-linux/-/compare/develop...7737-stack-light-when-the-e-stop-is-turned-on-the-usb-stack-light-does-not-buzz) to address this issue
+07-28 14:21:            INFO     assigned to @jan.wilmans
+07-28 14:21:            INFO     - `SetupUSBStacklight()` creates a `StacklightController` + `USBStacklight`
+- `SetStackLightStatus()` 
+- `BatData->VicIni.AlarmOn` is not read from ini-file??
+
+This sets the alarm, but only if `StatusLightPinChange2Alarm` is set that is only suppose to be for I/O based stacklights, but is now checked in both cases.
+
+```
+// Start the alarm, if configured
+stacklight::startTimeOfAlarm = std::chrono::steady_clock::now();
+if (BatData->VicIni.StatusLightPinChange2Alarm >= 0 && BatData->VicIni.StatusLightChange2AlarmTime > 0)
+{
+    stacklight::controller->SetAlarmSignal(true);
+}
+```
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     <p>changed title from <code class="idiff">[Stack light] When the E-stop is turned on, the USB stack light <span class="idiff left right deletion">can</span>not buzz.</code> to <code class="idiff">[Stack light] When the E-stop is turned on, the USB stack light <span class="idiff left right addition">does </span>not buzz.</code></p>
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7736]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7736]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, tidying
+07-28 14:21:            INFO     mentioned in commit bf73f2ab2c8dc759d9d83b67b48ab469eee62819
+07-28 14:21:            INFO     mentioned in commit a6a043847dd18e25f4fcbfe6899f0bc403648bd9
+07-28 14:21:            INFO     mentioned in commit 6c5258098ba149063748ce9719b92b231fba8e8c
+07-28 14:21:            INFO     mentioned in commit 1080d23bbba66247f4933f1e6def01e007d570a0
+07-28 14:21:            INFO     mentioned in commit 1854d879c54789a3e1ded5fa0452da18a965f530
+07-28 14:21:            INFO     mentioned in merge request !7469
+07-28 14:21:            INFO     created branch [`7736-remove-unused-display-shared-memory-fields`](/Vimec/v-center-linux/-/compare/develop...7736-remove-unused-display-shared-memory-fields) to address this issue
+07-28 14:21:            INFO     assigned to @stefan.spronkmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7736]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7736]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7736]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, tidying (removing unused stuff)
+07-28 14:21:            INFO     mentioned in commit 81350177c2a71b57f1f0f9bd4587f1bb3e66de61
+07-28 14:21:            INFO     mentioned in commit 0a0b32379a2aac37c069a51ee941882684b2fde3
+07-28 14:21:            INFO     mentioned in commit 9966195d1ee52832ea78e01eb17220d01cbd260b
+07-28 14:21:            INFO     mentioned in commit 82411ebc19631f8d0e4a2b9d992b5e071d420275
+07-28 14:21:            INFO     mentioned in commit 91013b7b07c672eaf542ad28f8316a1931f3f8d6
+07-28 14:21:            INFO     mentioned in commit b4f83c873f53b38828d2d3467cd402192606184a
+07-28 14:21:            INFO     mentioned in commit f3aa2757ef027e95fef810496baec4a88d6223d6
+07-28 14:21:            INFO     mentioned in commit eff6313572a59be7d9b57d20e65cb92afd98e910
+07-28 14:21:            INFO     mentioned in commit 122c6c3ec6593de8723bc7db74d0346207a49273
+07-28 14:21:            INFO     mentioned in commit 4a601563b9fd46d3a1169d9ce45481850a0c4119
+07-28 14:21:            INFO     mentioned in commit eb5f4016a9d5823044ff8f9abf46286b1e29a887
+07-28 14:21:            INFO     mentioned in commit c26b1657d95d832577b3ba8b6950f19dce309b84
+07-28 14:21:            INFO     mentioned in commit d52cb245eb766b113db79fe556ee5c87610114b6
+07-28 14:21:            INFO     mentioned in commit 17714498102f1d32800ff32d7c8d5fad5ecedd39
+07-28 14:21:            INFO     mentioned in commit db9e7bc503b5e37b7242e1edc92841ffba852b9c
+07-28 14:21:            INFO     mentioned in commit 6e36a837f92e48becb2c322cc44a81edc0da2716
+07-28 14:21:            INFO     mentioned in commit a6c6395f3d859d1d60f60dd1c720fd910ce55126
+07-28 14:21:            INFO     mentioned in merge request !7468
+07-28 14:21:            INFO     created branch [`7735-tidy-up-collectstatdata`](/Vimec/v-center-linux/-/compare/develop...7735-tidy-up-collectstatdata) to address this issue
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7735]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that there is no regression in closing and reloading jobs.
+07-28 14:21:            INFO     mentioned in commit 45e92cb23c56d37c463cb40f028d7eb4cca44a87
+07-28 14:21:            INFO     mentioned in commit aac8101b9868b2114dc4a792c0bd927b1423a314
+07-28 14:21:            INFO     mentioned in commit 1f0d0c8a282223ef7ff785d7e785b4181471eb21
+07-28 14:21:            INFO     mentioned in commit f5a7f0c70f1503a29d9ca6dd2eae45985d81dbaf
+07-28 14:21:            INFO     mentioned in commit 3ddaa0aba7aad05e9811e93078a657c3f04dc7c7
+07-28 14:21:            INFO     mentioned in commit fb910e00aaeedc5bd888390a5dd190116c8d888b
+07-28 14:21:            INFO     mentioned in commit 0bf6c0f23548df0cd2088f27991e359513875e43
+07-28 14:21:            INFO     mentioned in commit 1031819e5476b57dfffdacc853e527a6773eead1
+07-28 14:21:            INFO     mentioned in merge request !7467
+07-28 14:21:            INFO     created branch [`7734-tidy-up-close_job-handling-in-commandtask`](/Vimec/v-center-linux/-/compare/develop...7734-tidy-up-close_job-handling-in-commandtask) to address this issue
+07-28 14:21:            INFO     assigned to @stefan.spronkmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7734]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7733]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7733]
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, tidying
+07-28 14:21:            INFO     mentioned in commit fa3faf8c155bb886689179fea50a9cb7e17b8855
+07-28 14:21:            INFO     mentioned in commit 0331270cd59e113468086ae46845c5818391b9a4
+07-28 14:21:            INFO     mentioned in commit 786923252577b94b683d6b5e675fc25279c31b94
+07-28 14:21:            INFO     mentioned in commit 5e5173040209c11136f25d81ba67f0497f2a1501
+07-28 14:21:            INFO     mentioned in commit b0c959e70cff7c477c8f611646eabfe5df388b57
+07-28 14:21:            INFO     mentioned in commit db5bda9e74334fb9d4dbf07acab466c3b4dad8a8
+07-28 14:21:            INFO     mentioned in commit a5be81648c9eaa721a5cb80c9e3daaf082f7ab33
+07-28 14:21:            INFO     mentioned in commit 95bdb4f1f8c3356b2ad169d697d08718106e7127
+07-28 14:21:            INFO     mentioned in commit 022146ea525652924cbdfa10d0ee52cec90e90c2
+07-28 14:21:            INFO     mentioned in merge request !7466
+07-28 14:21:            INFO     created branch [`7733-tidy-up-shmemlib`](/Vimec/v-center-linux/-/compare/develop...7733-tidy-up-shmemlib) to address this issue
+07-28 14:21:            INFO     assigned to @stefan.spronkmans
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7733]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7733]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7733]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7726]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7726]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No, Already addressed in #7737
+07-28 14:21:            INFO     mentioned in commit 239c1787bbfcb33093aa3d295e5a72aefe0384b6
+07-28 14:21:            INFO     mentioned in issue #7724
+07-28 14:21:            INFO     assigned to @jan.wilmans
+07-28 14:21:            INFO     mentioned in commit 011358316d59e5a77155a36310596b249531fabb
+07-28 14:21:            INFO     mentioned in commit abb1868d8c3cd75242c28a49a281d384074ef4eb
+07-28 14:21:            INFO     mentioned in commit a6c2159e05df671c3f685a7381f75c7b54e54191
+07-28 14:21:            INFO     mentioned in commit 06f922d934242d52389eed068b034d439614a292
+07-28 14:21:            INFO     mentioned in commit fca8c1614f116070d13c61f269adf49c98717854
+07-28 14:21:            INFO     mentioned in commit 0ad55a48c293de91e4ec1827b350398f353bb16e
+07-28 14:21:            INFO     mentioned in commit 34458212ebb090dfce7d2c9594fc148f5a05e6b7
+07-28 14:21:            INFO     mentioned in commit d656bffc5037d9984a9d78286b4bef72e2037a37
+07-28 14:21:            INFO     mentioned in merge request !7459
+07-28 14:21:            INFO     mentioned in commit e1e13ec314713f95e5bd14a5f606fa982135d6d2
+07-28 14:21:            INFO     mentioned in commit f0545b43a232e1a9fc7ec781d75420cf20ab4e66
+07-28 14:21:            INFO     mentioned in commit 112a799e5531e782a5f96ef6e933d22f83510056
+07-28 14:21:            INFO     mentioned in merge request !7462
+07-28 14:21:            INFO     created branch [`7726-add-usb-stacklight-support-for-os-12`](/Vimec/v-center-linux/-/compare/develop...7726-add-usb-stacklight-support-for-os-12) to address this issue
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7726]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7726]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7721]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7721]
+07-28 14:21:            INFO     ## Test info
+
+### Testing needed?
+
+No, this is a rare edge / error, case in communication inside vcenter. If it happens, now more information is logged.
+07-28 14:21:            INFO     mentioned in commit 3c1c370069942b563f1dbc32dedbb01327b20709
+07-28 14:21:            INFO     mentioned in commit 2fd00498e0986ed48b43b510485077212056e694
+07-28 14:21:            INFO     mentioned in commit 6566ded54a495e76cb28348424352f5aaed23727
+07-28 14:21:            INFO     mentioned in commit 23133951df9f9dedb943cc73e7d65715e24448b2
+07-28 14:21:            INFO     mentioned in commit 73b01d605111d1d45085197fd9e67e0ccb89e18b
+07-28 14:21:            INFO     mentioned in commit 55a1dc1a5e12ff42bcd7dc03c99bc2dc36856c40
+07-28 14:21:            INFO     After the merge back we should print add:
+
+
+```
+int TComTask::SendReply() const
+int TComTask::SendReply(const TBufTask & buffer) const
+```
+
+# Pseudo code:
+
+```
+int TComTask::SendReply() const
+{
+    VIC_ASSERT(m_internal_simpl_sender_data != nullptr);
+    if (m_internal_simpl_sender_data == nullptr)
+    {
+        fmt::println(stderr, "protocol error: SendReply called by '{}' but Receive() did not get data?", my_name_as_string());
+    }
+    auto result = Reply(m_internal_simpl_sender_data, nullptr, 0);
+    m_internal_simpl_sender_data = nullptr;
+    return result;
+}
+
+int TComTask::SendReply(const TBufTask & buffer) const
+{
+    VIC_ASSERT(m_internal_simpl_sender_data != nullptr);
+
+    if (m_internal_simpl_sender_data == nullptr)
+    {
+        fmt::println(stderr, "protocol error: SendReply called by '{}' but Receive() did not get data? command: {}, buffer: {}", my_name_as_string(), GetCommand(buffer), as_hexdump(buffer));
+    }
+
+    comtaskPrint("  [SendReply {0:20s}] {1}\n", sendMarker(), as_hexdump(buffer));
+    auto result = Reply(m_internal_simpl_sender_data, const_cast<char *>(buffer.data()), buffer.size());
+    m_internal_simpl_sender_data = nullptr;
+    return result;
+}
+```
+07-28 14:21:            INFO     mentioned in merge request !7453
+07-28 14:21:            INFO     created branch [`7721-comtask-sendreply-does-not-print-the-reply-data-command-size-in-case-the`](/Vimec/v-center-linux/-/compare/develop...7721-comtask-sendreply-does-not-print-the-reply-data-command-size-in-case-the) to address this issue
+07-28 14:21:            INFO     <p>changed title from <code class="idiff">ComTask::SendReply does not the &#39;reply data&#39; in case the m_internal_simpl_sender_data is nullptr</code> to <code class="idiff">ComTask::SendReply does not <span class="idiff left addition">print </span>the &#39;reply data&#39; (command<span class="idiff right addition">/size)  in case </span>the m_internal_simpl_sender_data is nullptr</code></p>
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, tidying
+07-28 14:21:            INFO     mentioned in commit 96a88738f682bfc43f81a17a85095f7767fe057b
+07-28 14:21:            INFO     changed the description
+07-28 14:21:            INFO     mentioned in commit d85bb93a5b3c90451e361fc87b65dccf578ccbb9
+07-28 14:21:            INFO     mentioned in commit 5294d4e3b7e7f02af2adceb650592db3017104b9
+07-28 14:21:            INFO     mentioned in commit 126a1abd7b11243d6604d66f45deca6031066341
+07-28 14:21:            INFO     mentioned in commit 3e8f67eefef4e7d4e9af6097d7900786292d254e
+07-28 14:21:            INFO     mentioned in commit c67af96fa654c3d269ad7f2ad9177679208cab42
+07-28 14:21:            INFO     mentioned in commit 8a0a16f9e3d70e95988077417cd55ff6439913c7
+07-28 14:21:            INFO     mentioned in commit 377ad606462cb60c47d74ff2eb7b2875dbcdf7cb
+07-28 14:21:            INFO     mentioned in commit c5270fe6de4b26b533633ad22aaa4db2e54b3d9f
+07-28 14:21:            INFO     mentioned in commit bbb81dfc2db631e71871576bb44cd23c07209b02
+07-28 14:21:            INFO     mentioned in commit 2173e5e3bde0c65be22dfa6c9eaca77e4995f76c
+07-28 14:21:            INFO     mentioned in commit a9745ced44ba5216271181a32d058bffa549a095
+07-28 14:21:            INFO     mentioned in commit 9b53d519c55a261ac5fbfe3c5d984d7bbe01e8c1
+07-28 14:21:            INFO     mentioned in commit 1dc5179c578d21d9ae771d2b3248dd870d771a30
+07-28 14:21:            INFO     mentioned in commit b0de9377c10c30ee806ef6be01e5afffc3a1c37d
+07-28 14:21:            INFO     mentioned in commit 49f8d09438c238f9d6ae1481be29f8f7ed41124a
+07-28 14:21:            INFO     mentioned in commit e8bb3afe18391d80a7f2c9b69791d8e60e2d38c3
+07-28 14:21:            INFO     mentioned in commit 20b092812b1f0df3d453b9016642a7d2eeb33a0c
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7727]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ## Test info
+### Testing needed?
+No, removing code for an already deactivated feature.
+07-28 14:21:            INFO     mentioned in commit 6c8ae82b5155d251f3a49cc25bf7d52dfd5df63e
+07-28 14:21:            INFO     mentioned in commit 6e1cc28b7b147b8e5dcba29e797b4a9f841e5cc5
+07-28 14:21:            INFO     mentioned in commit d607c7d0e800e83a7a137b8c8acb2e5491504591
+07-28 14:21:            INFO     mentioned in commit f5e535ebce86378b01a18251d0af28660ff392c0
+07-28 14:21:            INFO     mentioned in commit b18a51c8fe7d29ade9c4242ec4b8f9b9343a4af7
+07-28 14:21:            INFO     mentioned in commit 3272b60a0dd0936d105791debb39586ab9e0de54
+07-28 14:21:            INFO     mentioned in commit f6130ae4901094bd889e9fa38571b0c535bc3e59
+07-28 14:21:            INFO     mentioned in commit 19fa98c2348df807a9d55d6e3887e6277a70c8c6
+07-28 14:21:            INFO     mentioned in commit 3df8469b899d7428d80297840e458dc38349dae1
+07-28 14:21:            INFO     mentioned in commit 5bcd8ac82b2666dfedc56fddd60ec5c9e211d338
+07-28 14:21:            INFO     mentioned in commit 220cd7e08eebe52da9e1e0591f788610842f1e4a
+07-28 14:21:            INFO     mentioned in commit ad861ab2bf58e568f35a63bdba0677eace308835
+07-28 14:21:            INFO     mentioned in commit 4deae8062d078efb390823db670042c5663eb860
+07-28 14:21:            INFO     mentioned in commit df0b2270b9abfb5ca6200643e9637f948710e985
+07-28 14:21:            INFO     mentioned in commit 61c1b3051ab50e0e01ce76d9363cc5ca9da7475a
+07-28 14:21:            INFO     mentioned in commit 1aea8b35dbfecb6871e82628b3cba6b68e6f8290
+07-28 14:21:            INFO     mentioned in commit 6fcbf529871eb17c3860a1317aec65ebe5607c1d
+07-28 14:21:            INFO     mentioned in commit f480fe3f5bb02ae7f1c1f5fa51b10da34e0f251c
+07-28 14:21:            INFO     mentioned in commit 815f2370276416cc1b1026697419b1d5eb344f33
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:21:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:21:            INFO     [#7671]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7671]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+No
+07-28 14:22:            INFO     mentioned in commit e003a1341d18986c681f01d1357f3cbeb160b1ef
+07-28 14:22:            INFO     mentioned in commit 611ffc0fdfd2a20bb8930d91cc48019cb829bcbf
+07-28 14:22:            INFO     mentioned in merge request !7458
+07-28 14:22:            INFO     created branch [`7601-release-candidate-3-20-0-0-merge-to-develop`](/Vimec/v-center-linux/-/compare/develop...7601-release-candidate-3-20-0-0-merge-to-develop) to address this issue
+07-28 14:22:            INFO     mentioned in commit 6a65e45040de475f18342dc0bcf5b870148fb481
+07-28 14:22:            INFO     mentioned in merge request !7457
+07-28 14:22:            INFO     created branch [`7601-release-candidate-3-20-0-0-merge-to-develop`](/Vimec/v-center-linux/-/compare/develop...7601-release-candidate-3-20-0-0-merge-to-develop) to address this issue
+07-28 14:22:            INFO     mentioned in commit 3d5b5ae44f7e736cfb90b48d8366cad016dd2455
+07-28 14:22:            INFO     mentioned in commit fb51041089c2dc030605c521b9cfa6ebb770d34b
+07-28 14:22:            INFO     mentioned in merge request !7454
+07-28 14:22:            INFO     created branch [`7601_release_candidate_3.20.0.0_merge_to_develop`](/Vimec/v-center-linux/-/compare/develop...7601_release_candidate_3.20.0.0_merge_to_develop) to address this issue
+07-28 14:22:            INFO     mentioned in commit cc4f3c4eb1846f9212bb8f71254165d9fee61b3a
+07-28 14:22:            INFO     mentioned in commit ecb5896a3a2ed8815ae54a8dbac2c7f061c2a0fb
+07-28 14:22:            INFO     mentioned in commit aeb41542d3052ec366b8bbe0804519013b99925c
+07-28 14:22:            INFO     created branch [`7601-release-candidate-3-20-0-0-update-changelog`](/Vimec/v-center-linux/-/compare/develop...7601-release-candidate-3-20-0-0-update-changelog) to address this issue
+07-28 14:22:            INFO     mentioned in commit 034e3283b5a86248c625fdb71eab71685f429964
+07-28 14:22:            INFO     mentioned in commit dda6851da069e58d9efbb4d28c7fc0934f508975
+07-28 14:22:            INFO     mentioned in commit 123ba5849fa9a486314a16d0c9f8399686ddd54d
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7462]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7462]
+07-28 14:22:            INFO     ## Test info
+
+### Testing needed?
+
+Yes
+
+- without a monitor connected, boot the system and connect via SSH and run `scripts/monitor.sh configuration virtual`, then reboot the system.
+- now VNC should be able to connect with the normal resolution even without a monitor connected.
+- `scripts/monitor.sh configuration normal` will switch it back to using the physical monitor.
+
+ 
+### System/product name
+VCenter 
+
+### Current [bug] behavior
+see issue
+
+### Modules affected
+ 
+### Steps to test the issue
+ 
+### Module measurements and modes used/changed
+Not available
+### Path to configuration file and articles used.
+Not available 
+### Path to the images used if applicable
+Not available 
+### UI translations needed?
+No
+### Impacts customer manual?
+No
+### Impacts service manual/configuration?
+No
+07-28 14:22:            INFO     mentioned in commit f1e17c4a30a6006481cd846c8b6b50441119e45f
+07-28 14:22:            INFO     mentioned in commit 7e46850c446ef8bfafceba8726dda8ae14cb6b8f
+07-28 14:22:            INFO     mentioned in commit 15d3cbc438321fa13a63e0d4b4bda2a4626597f3
+07-28 14:22:            INFO     mentioned in commit 3561afa9a78ecd418383654a6d6b02126601d01e
+07-28 14:22:            INFO     mentioned in merge request !7438
+07-28 14:22:            INFO     created branch [`7462-add-a-force_monitor_detection-script`](/Vimec/v-center-linux/-/compare/develop...7462-add-a-force_monitor_detection-script) to address this issue
+07-28 14:22:            INFO     I propose we either integrate this into `scripts/monitor.sh` or create a new script to enable/disable this. For example
+- `$ scripts/monitor.sh set virtual 1280 1024`
+- `$ scripts/monitor.sh set default`  <= would find out what it the first connected output and set it as the current output with 1280x1024 resolution
+07-28 14:22:            INFO     mentioned in issue #6860
+07-28 14:22:            INFO     unassigned @jan.wilmans
+07-28 14:22:            INFO     I really like the solution since it does not involve a reboot and is easily revertible. 
+However, for Entresol usage, using the `GRUB_CMDLINE_LINUX_DEFAULT` method might still be preferable because no extra actions are needed when connecting a monitor to a system that was booted without one.
+
+Test scenario:
+- system without a monitor, we lost the network connection and want to find out what happened, it would be nice if plugging in a monitor was possible to troubleshoot it.
+
+I'm not sure if that scenario is easy (or even possible) in either case.
+Like @Adriaan.deGroot mentioned in our casual conversation over beer, we might be able to detect the monitor being connected and act on that?
+07-28 14:22:            INFO     This is not necessary. You can configure Xorg with a specific (default) virtual framebuffer size. This can be done also when there are no monitor devices connected.
+
+Put the following in the file `/usr/share/X11/xorg.conf.d/50-monitor.conf` (do this as root):
+
+```
+Section "Screen"
+    Identifier  "DefaultScreen"
+    Monitor     "DefaultMonitor"
+    DefaultDepth    24
+    SubSection  "Display"
+        Depth   24
+        Virtual 1280 1024
+    EndSubSection
+EndSection
+```
+
+No additional configuration is needed. Optionally, restart X.
+
+An example of output, after ssh'ing in to the system with no monitor devices connected, is this:
+
+```
+# DISPLAY=:0 xrandr
+Screen 0: minimum 320 x 200, current 1280 x 1024, maximum 8192 x 8192
+VGA-1 disconnected primary (normal left inverted right x axis y axis)
+DP-1 disconnected (normal left inverted right x axis y axis)
+HDMI-1 disconnected (normal left inverted right x axis y axis)
+HDMI-2 disconnected (normal left inverted right x axis y axis)
+```
+
+Setting different values for `Virtual` in the config file will get a different description of *Screen 0*. The VNC server that is started by nodm follows the virtual desktop size.
+
+After connecting a monitor, you need to enable the output again; otherwise nothing is displayed. To do so, set an output to any useful size. For instance, after connecting the VGA cable, use `DISPLAY=:0 xrandr` to check that the cable is connected and that the monitor supports the desired output size. Having checked that it is connected, turn the output on with the desired mode:
+
+```
+# DISPLAY=:0 xrandr --output VGA-1 --mode 1280x1024
+```
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     assigned to @jan.wilmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7723]
+07-28 14:22:            INFO     Issue #16400 is not closed; skipping.
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7723]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+Stacklight behavior for the I/O based stacklight should still be the same (e.g. blinking / solid green in normal operation depending on inspection state, yellow / red / alarm buzzer depending on configuration and actions during inspection). If there is a USB stacklight available, it should demonstrably have the same behavior after configuring the stacklight type to be 6.
+07-28 14:22:            INFO     mentioned in commit 73663fd04c4d529173d3663d25419793134eb0d0
+07-28 14:22:            INFO     mentioned in commit 6548b34887e32dd6736f4b84c26e48768a1d6d28
+07-28 14:22:            INFO     mentioned in commit ea3307a50f83f64d208a4edec50f4dac53d5029a
+07-28 14:22:            INFO     mentioned in commit 1a3b175525f105b75ac592dfa86af72135b6af1f
+07-28 14:22:            INFO     mentioned in commit 7ecd28e0ec2a2349810d0ccc2b76d2e83604e26e
+07-28 14:22:            INFO     mentioned in commit 37123260891b68307c39701e94ea5ca9c4a1e731
+07-28 14:22:            INFO     mentioned in commit b7efc5787eed68d172ad378a49b3dbc13cc90747
+07-28 14:22:            INFO     mentioned in commit 94a000395302366bf8f398aa5cde72fb0d19eaa9
+07-28 14:22:            INFO     mentioned in commit 9509b30220374fe1e5668a33f11e2357714606f9
+07-28 14:22:            INFO     mentioned in commit e317557a15aa96658459f8996e13c232bc5b8314
+07-28 14:22:            INFO     mentioned in issue #7724
+07-28 14:22:            INFO     mentioned in commit 8ff144126efcdcbecf1b1e1e76422036b8500192
+07-28 14:22:            INFO     mentioned in commit dd130a392e0ab1cbcc8987ab67b0c21e42838d38
+07-28 14:22:            INFO     mentioned in commit 38e607c396a6bac2011eb95c9ba79f4add88e888
+07-28 14:22:            INFO     mentioned in commit b10fa29c191c6732abae52ebc0b2ffd2b79fefed
+07-28 14:22:            INFO     mentioned in commit 2c062c209a16f8f95a8deb4fa813430608669cf0
+07-28 14:22:            INFO     mentioned in commit d5d54d45a6c3274ffe2997f193adec3e26b5b28a
+07-28 14:22:            INFO     mentioned in commit 2087c25d645d7dddc62d10149b3e7079722ac878
+07-28 14:22:            INFO     mentioned in commit 658cb97fae043562af6518a81d0effb35812f0ac
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7717]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7717]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+No, this is unit testing
+07-28 14:22:            INFO     mentioned in commit d78ff867c0daca7fa63eb579008007a9c50887e2
+07-28 14:22:            INFO     mentioned in commit 2d2ee659408c36d4516972e4928e804bdaa34a0a
+07-28 14:22:            INFO     mentioned in commit f2ab2f20851fa0fd866f8848d2269b8adf3282bd
+07-28 14:22:            INFO     mentioned in commit 476a112ec83a7e3a6464bbf870ffecfbbc3d7e94
+07-28 14:22:            INFO     mentioned in commit e33449cf1672e2682792b96cdecc0dbadcb6dcf9
+07-28 14:22:            INFO     mentioned in commit e826d7ff324ccada2be838819fe32dac9e06af2c
+07-28 14:22:            INFO     mentioned in commit 1d1023b69a353c162cf3a7e4412c1a04919d5987
+07-28 14:22:            INFO     mentioned in commit fd135e19587f91ebecf54a681f43adbe79d8f574
+07-28 14:22:            INFO     mentioned in commit 66b53f97dbb045f3095678bdc0b26cb65abef3cf
+07-28 14:22:            INFO     mentioned in commit 81a58ecf70a8297d1a51048edadd11762daa207c
+07-28 14:22:            INFO     mentioned in merge request !7449
+07-28 14:22:            INFO     created branch [`7717-creating-unit-test-for-dim450-finger-grip-thickness`](/Vimec/v-center-linux/-/compare/develop...7717-creating-unit-test-for-dim450-finger-grip-thickness) to address this issue
+07-28 14:22:            INFO     assigned to @jefin.paul
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7717]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7719]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7719]
+07-28 14:22:            INFO     ## Test info
+
+### Testing needed?
+
+Yes
+
+Start the 'genicam_tool' while the camera's are actively in use by v-center. It should still detect all of them except USB cameras, and the ueye-camera. (because those do not support the genicam protocol).
+
+They should be listed with their vender, model, serial, hardware- and firmware version.
+
+### System/product name
+VCenter 
+
+### Current [bug] behavior
+see issue
+
+### Modules affected
+ 
+### Steps to test the issue
+ 
+### Module measurements and modes used/changed
+Not available
+### Path to configuration file and articles used.
+Not available 
+### Path to the images used if applicable
+Not available 
+### UI translations needed?
+No
+### Impacts customer manual?
+No
+### Impacts service manual/configuration?
+No
+07-28 14:22:            INFO     mentioned in commit 8259575b6b9412ceb315120027972ec9f96cb45c
+07-28 14:22:            INFO     mentioned in commit 82506f5d475c47ddb3c324aa6ce5e1adef590626
+07-28 14:22:            INFO     mentioned in commit 24bea0e189717886c6b3e3a58a2877a080b84959
+07-28 14:22:            INFO     mentioned in commit e9ca3f68dd23afd6869aefba3e5e04ea36938cd8
+07-28 14:22:            INFO     mentioned in commit c671706a884cbeb3584446f66dee2cf92a951910
+07-28 14:22:            INFO     mentioned in merge request !7452
+07-28 14:22:            INFO     created branch [`7719-create-an-ebus_sdk-based-command-line-to-connect-to-camera-s-in-monitoring-mode`](/Vimec/v-center-linux/-/compare/develop...7719-create-an-ebus_sdk-based-command-line-to-connect-to-camera-s-in-monitoring-mode) to address this issue
+07-28 14:22:            INFO     assigned to @jan.wilmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+No, tidying
+07-28 14:22:            INFO     mentioned in commit 302a68c702d05ef207110c3c005f075b25b88cc8
+07-28 14:22:            INFO     mentioned in commit d5097a6931541477414cbb864b9b789b5bff6f95
+07-28 14:22:            INFO     mentioned in commit 7625b343188aea7f59bd2a5bb343e427d19e4151
+07-28 14:22:            INFO     mentioned in commit 84ca1f7571139a9085bc0553986aa2bb6eb106ef
+07-28 14:22:            INFO     mentioned in commit 0474e504952f85fb6f5cc1a21787b41b7fc02d26
+07-28 14:22:            INFO     mentioned in commit f61d4fda2a8927ce52f620d37acd8d76c07cd8ca
+07-28 14:22:            INFO     mentioned in commit 1ab6613c1caa14d48380818fd66cd44546280ac0
+07-28 14:22:            INFO     mentioned in merge request !7451
+07-28 14:22:            INFO     created branch [`7718-tidy-up-savestattask`](/Vimec/v-center-linux/-/compare/develop...7718-tidy-up-savestattask) to address this issue
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7718]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that there's no regression in closing and reloading jobs.
+07-28 14:22:            INFO     mentioned in commit becb18a03c215e7bb8b8d95be6ded5018391e5fa
+07-28 14:22:            INFO     mentioned in commit 57c80b46500d16c45f36856e9be162192d1fa7c6
+07-28 14:22:            INFO     mentioned in commit fa8e364c0f53fc9de82b695668d426b292a03308
+07-28 14:22:            INFO     mentioned in commit 5907841fd4a128c2eeaf26ba9de432e191320ca4
+07-28 14:22:            INFO     mentioned in commit ba3f840f342e4104d4446632186ca9516e730820
+07-28 14:22:            INFO     mentioned in commit 8a22a8568aa0efdf1808f3cc9b745333b554e83b
+07-28 14:22:            INFO     mentioned in commit 261cb13865ea9b6a483ff76d62fd6c9b6b66c0a3
+07-28 14:22:            INFO     mentioned in commit 3497fc6573cb0c96c39d64d168b6c95ff7564707
+07-28 14:22:            INFO     mentioned in commit b8ec83c65c39a1d04a15ca10093c791b344e2ec1
+07-28 14:22:            INFO     mentioned in commit a7e9f2ccabf64fd4bdfce991afb2ea2bf61fb517
+07-28 14:22:            INFO     mentioned in commit 91c93eec0e475703ac260f02317e4159d11c753c
+07-28 14:22:            INFO     mentioned in commit 570eacba267a91c55a603619c3c5a80d81b5737f
+07-28 14:22:            INFO     mentioned in commit 6b0b230efd0243e19bab86bfd12aa6013f10bd91
+07-28 14:22:            INFO     mentioned in commit 2fdc881627385a216d8d6cd82cc335faa93aef4a
+07-28 14:22:            INFO     mentioned in merge request !7448
+07-28 14:22:            INFO     created branch [`7716-tidy-up-job-functionality-in-vicinspection`](/Vimec/v-center-linux/-/compare/develop...7716-tidy-up-job-functionality-in-vicinspection) to address this issue
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7716]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7707]
+07-28 14:22:            INFO     ## Test info
+
+### Testing needed?
+
+No
+07-28 14:22:            INFO     mentioned in commit 7e46850c446ef8bfafceba8726dda8ae14cb6b8f
+07-28 14:22:            INFO     ## Test Status
+
+Passed
+
+## Test Result:
+
+![image](/uploads/25493cd305508b2b61679049e5d38c3f/image.png){width=570 height=259}
+07-28 14:22:            INFO     mentioned in commit 15d3cbc438321fa13a63e0d4b4bda2a4626597f3
+07-28 14:22:            INFO     mentioned in commit 3561afa9a78ecd418383654a6d6b02126601d01e
+07-28 14:22:            INFO     mentioned in commit 63ce41dbf378f95279dd9f41dc3a5dc430a15be3
+07-28 14:22:            INFO     mentioned in commit 1cad459add679911234cc0ea708f521a460110b6
+07-28 14:22:            INFO     mentioned in merge request !7446
+07-28 14:22:            INFO     created branch [`7707-configure_slave-sh-executes-even-when-dongle-keylock-id-is-0-2`](/Vimec/v-center-linux/-/compare/develop...7707-configure_slave-sh-executes-even-when-dongle-keylock-id-is-0-2) to address this issue
+07-28 14:22:            INFO     assigned to @jan.wilmans
+07-28 14:22:            INFO     mentioned in merge request !7441
+07-28 14:22:            INFO     created branch [`7707-configure_slave-sh-executes-even-when-dongle-keylock-id-is-0`](/Vimec/v-center-linux/-/compare/develop...7707-configure_slave-sh-executes-even-when-dongle-keylock-id-is-0) to address this issue
+07-28 14:22:            INFO     ```
+ID=`/home/vimec/vic/bin/vic/keylok_tool`
+```
+
+is already part of the script, it should move to line 10 and check the result for non-zero.
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7715]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7715]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that the changelog entries when closing or reloading a job remain correct.
+07-28 14:22:            INFO     mentioned in commit 7c79b936aaf20b1d7a1ba8d4d0e842ea0ea6a3e0
+07-28 14:22:            INFO     mentioned in commit b0e3e8a931b33ea84b5a1ce33e3bce50e1422ee5
+07-28 14:22:            INFO     mentioned in merge request !7444
+07-28 14:22:            INFO     created branch [`7715-move-adding-entry-to-changelog-when-closing-job-to-commandtask`](/Vimec/v-center-linux/-/compare/develop...7715-move-adding-entry-to-changelog-when-closing-job-to-commandtask) to address this issue
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7713]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7713]
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     <p>changed title from <code class="idiff"><span class="idiff left deletion">Test. </span>New smart motor program<span class="idiff right deletion">.</span></code> to <code class="idiff">New smart motor program</code></p>
+07-28 14:22:            INFO     ```
+## Test info
+### Testing needed?
+No
+### System/product name
+
+### Current [bug] behavior
+
+### Modules affected
+
+### Steps to test the issue
+
+### Module measurements and modes used/changed
+
+### Path to configuration file and articles used.
+
+### Path to the images used if applicable
+
+### UI translations needed?
+No
+### Impacts customer manual?
+No
+### Impacts service manual/configuration?
+No
+07-28 14:22:            INFO     mentioned in commit b518e9104339f068a16151c4c2af76b31f410023
+07-28 14:22:            INFO     mentioned in merge request !7443
+07-28 14:22:            INFO     created branch [`7713-test-new-smart-motor-program`](/Vimec/v-center-linux/-/compare/develop...7713-test-new-smart-motor-program) to address this issue
+07-28 14:22:            INFO     assigned to @yurii.slan
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7678]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7678]
+07-28 14:22:            INFO     ## Test info
+
+### Testing needed?
+
+Yes
+
+We need to provide a tool to test sending bad commands.
+
+### System/product name
+VCenter 
+
+### Current [bug] behavior
+see issue
+
+### Modules affected
+ 
+### Steps to test the issue
+ 
+### Module measurements and modes used/changed
+Not available
+### Path to configuration file and articles used.
+Not available 
+### Path to the images used if applicable
+Not available 
+### UI translations needed?
+No
+### Impacts customer manual?
+No
+### Impacts service manual/configuration?
+No
+07-28 14:22:            INFO     mentioned in commit 9518ffcb4dc3e12e195ace7a614f2ff70a5e390f
+07-28 14:22:            INFO     mentioned in commit 8207f90e39e9d0d569e1c147d54fcfda24584475
+07-28 14:22:            INFO     mentioned in commit 85ac1072e3b3750c8cb39c1a3695c8947dbd8b2a
+07-28 14:22:            INFO     mentioned in commit eae11c46d7bf86d8cb41aee4aee06d98283b9ad9
+07-28 14:22:            INFO     mentioned in commit 7ebcab33befb06501366ac3a5bb66bb3b8d9bc7f
+07-28 14:22:            INFO     mentioned in commit 0721188db8f320b6ead2cd11743c2aa53293dfb7
+07-28 14:22:            INFO     mentioned in commit 33d83007fcb6f54dec553e59229e9e8282bf0006
+07-28 14:22:            INFO     mentioned in commit 0f17fee3ddfa8b314847de72fc771671c1bbd623
+07-28 14:22:            INFO     mentioned in commit 7e4128e09df7c7ec97b34d1dc7c5258c99593bec
+07-28 14:22:            INFO     mentioned in commit 3c971c18f971dbff06850cedbab9154459460a87
+07-28 14:22:            INFO     mentioned in commit 4c4f5f083660a15b940dd34dc22f3a6dfc719bb5
+07-28 14:22:            INFO     mentioned in commit 4c5166c640c5bea717db1a1d953d42eec9769fa1
+07-28 14:22:            INFO     mentioned in commit b4114e2d7cad3e230c3de06048ad73643524800b
+07-28 14:22:            INFO     mentioned in commit 07eff531606e6f3214485289191041ba76d61431
+07-28 14:22:            INFO     mentioned in commit 948d96dde0ec63c289ada5f55bf5828f585abf47
+07-28 14:22:            INFO     mentioned in commit e80d3f8c2fdb65ee34e5bebe98473f8e010f41d7
+07-28 14:22:            INFO     mentioned in commit 9dfa05572fa017f37ec7299c35e27ab881fe0da8
+07-28 14:22:            INFO     mentioned in commit 287d573c97ea5ce184fb26694f13a38a4683342e
+07-28 14:22:            INFO     added time estimate of 2h
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7678]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7678]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7678]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7678]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7712]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7712]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that there's no regression in closing and reloading jobs.
+07-28 14:22:            INFO     mentioned in commit f6d39557abc1e9ebfc54ba49778427d12bfe7b23
+07-28 14:22:            INFO     mentioned in commit 6831e68e6b2ff01237fa0eaef9a351b5931f67f7
+07-28 14:22:            INFO     mentioned in commit 2714b459d1d9342f08c1310f20af64082e198848
+07-28 14:22:            INFO     mentioned in commit b85ea338f098e6edb93d8bdbe5bf1ba1c8a21afa
+07-28 14:22:            INFO     mentioned in commit fa2829b0c83a599bf69a91402512f1aeed4b2ca5
+07-28 14:22:            INFO     mentioned in commit 9f99dcd0be0d9487b64e6b672ec1dc0fd997416d
+07-28 14:22:            INFO     mentioned in commit a7f820ec64af965e38d608ef37052ee42641ce23
+07-28 14:22:            INFO     mentioned in commit 68b2663a42996299e5d75aef254e52679b43a2a5
+07-28 14:22:            INFO     mentioned in commit 56b1dd2eaa2632ab05715f0c626a1b3e134fba39
+07-28 14:22:            INFO     mentioned in merge request !7440
+07-28 14:22:            INFO     created branch [`7712-tidy-close-job-communication-protocols`](/Vimec/v-center-linux/-/compare/develop...7712-tidy-close-job-communication-protocols) to address this issue
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7712]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7712]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7712]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7712]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     mentioned in commit 3c6bb1169ee5dd8377eb523ed9bda978749256c9
+07-28 14:22:            INFO     mentioned in commit 9f6ffb9e7ee29bac37c532213b6f38041da5a0b2
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     mentioned in commit 853ebf7b2a6cf9a0b583e3973fb54ba3a92d5171
+07-28 14:22:            INFO     mentioned in merge request !7435
+07-28 14:22:            INFO     created branch [`6925-add-camera-emulation-and-or-filecam-agent`](/Vimec/v-center-linux/-/compare/develop...6925-add-camera-emulation-and-or-filecam-agent) to address this issue
+07-28 14:22:            INFO     reopened to add logging at startup and small correcting in unittest
+07-28 14:22:            INFO     ## Test info
+
+### Testing needed?
+
+Yes
+
+- test 1
+  - make sure `/home/vimec/vic/filecam` does not exist
+  - start Vcenter normally, no extra camera should appear
+- test 2
+  - make sure `/home/vimec/vic/filecam/cam1` exists and contains nothing
+  - start Vcenter, 1 extra 'Vimec' camera should be available that produces black images.
+- test 3
+  - make sure `/home/vimec/vic/filecam/cam1` exists and contains images (.png or .pgm) from a take that is the correct size of the module under test
+  - start Vcenter, 1 extra 'Vimec' camera should be available that produces all the images if you click 'once' 
+- test 4
+  - create '/home/vimec/vic/filecam/cam1/config.json' with this content:
+
+```
+{"SensorSizeX" : 1282, "SensorSizeY" : 1026}
+```
+
+and 
+
+```
+{"SensorSizeX" : 5472, "SensorSizeY" : 3648}
+```
+
+And check the values are used at the 'sensorsize', this can be observed in the 'camera' tab, because the images from the /cam1/ directory will be positioned on a background the size of the sensor.
+
+see also http://bookstack.vimec.nl/books/vcenter-advanced-user-manual/page/using-the-filecam
+
+### System/product name
+VCenter 
+
+### Current [bug] behavior
+see issue
+
+### Modules affected
+ 
+### Steps to test the issue
+ 
+### Module measurements and modes used/changed
+Not available
+### Path to configuration file and articles used.
+Not available 
+### Path to the images used if applicable
+Not available 
+### UI translations needed?
+No
+### Impacts customer manual?
+No
+### Impacts service manual/configuration?
+No
+07-28 14:22:            INFO     mentioned in commit 7bd7509f1c63e3c5982cfa531f580f791340db8c
+07-28 14:22:            INFO     mentioned in commit 7d5ad1c43c7e1224b988932cfa748c7ce6696ae1
+07-28 14:22:            INFO     mentioned in commit e9d1b4b2fe7be5d245705e24835c3904ef17ebca
+07-28 14:22:            INFO     mentioned in commit cd6291f3750fe1799122955325eeca541a709c5f
+07-28 14:22:            INFO     mentioned in commit fd9306eefa70dc13bc5c39244570b4a5f3ab88bb
+07-28 14:22:            INFO     mentioned in commit 6385ca6cb38ef27dbf6f01e1d64eeaaa02498a32
+07-28 14:22:            INFO     mentioned in commit ebfdb864618552fa707a3e42390770f7ad8e49fa
+07-28 14:22:            INFO     mentioned in commit f9c8f44e3ffbb660d598f2c98db436c411b556b0
+07-28 14:22:            INFO     mentioned in commit 63e99a8e5306692544e57e85f1780bf12d0e1aad
+07-28 14:22:            INFO     mentioned in commit 58be19ea4f1c4dd683d9b59eda0e1f1d3fcd9e14
+07-28 14:22:            INFO     mentioned in commit f352372bae819b8c3e4731fcf268e8cf633086a2
+07-28 14:22:            INFO     mentioned in commit 8c7c6a941c63fa711c80a1eea48ed07470857251
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7701]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+No
+
+This is developer-tooling, fully internal to VIMEC.
+07-28 14:22:            INFO     mentioned in commit 9fb93840b7277eca92eda6f7deca03549b0783ce
+07-28 14:22:            INFO     mentioned in commit f4446ad91faef99625ec9e2209387fa85b62a9c8
+07-28 14:22:            INFO     mentioned in commit 8434dbff08f74b7ebc8cfd0ce176a922d734cae6
+07-28 14:22:            INFO     mentioned in commit ae7ceea2d7e9ac67d7372fc8b890c060f9fe7a1b
+07-28 14:22:            INFO     mentioned in merge request !7431
+07-28 14:22:            INFO     created branch [`7701-update-tokens`](/Vimec/v-center-linux/-/compare/develop...7701-update-tokens) to address this issue
+07-28 14:22:            INFO     assigned to @Adriaan.deGroot
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7701]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7695]
+07-28 14:22:            INFO     ## Test Status
+
+Passed.
+
+## Test Result
+
+Restart VCenter is working again.
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Current [bug] behavior
+V-Center 3.20.0.0-RC4 does not start when at some point in the past 3.15.5.x was installed (which leaves behind `/etc/vimec/user_vimec_vcenter`).
+### Steps to test the issue
+Verify that after installing packages `/etc/vimec/user_vimec_vcenter` is removed and V-Center can be started again through the icewm menu.
+07-28 14:22:            INFO     mentioned in commit d224941eabb748dc91d8799dbad044b2a4144270
+07-28 14:22:            INFO     mentioned in merge request !7430
+07-28 14:22:            INFO     created branch [`7695-os10-the-right-mouse-menu-vimec-or-vimec-force-restart-is-not-working-after-installing-3-20-0`](/Vimec/v-center-linux/-/compare/develop...7695-os10-the-right-mouse-menu-vimec-or-vimec-force-restart-is-not-working-after-installing-3-20-0) to address this issue
+07-28 14:22:            INFO     The culprit seems to be file `/etc/sudoers.d/user_vimec_vcenter`. This file is installed with V-Center version 3.15.5.x (and possibly also 3.15.4.x). This file is not owned by any package so the file remains, even when upgrading to a newer V-Center version. This was not a problem until we started shuffling around scripts. The solution is to simply remove the unowned `/etc/sudoers.d/user_vimec_vcenter` file from `postinst` of the `vcenter-application` package.
+07-28 14:22:            INFO     The following procedures do **not** reproduce the issue in a VM:
+- 1
+  - Install from Buster Initial ISO (Z:\Vimec\Projects\application\v-center-linux\buster\initial-ISO\usbstick-3.14.4.0-buster.iso)
+  - Upgrade to 3.17.0.0
+  - Upgrade to 3.18.3.0
+  - Upgrade to 3.20.0.0-RC4
+- 2
+  - Install from Buster Initial ISO (Z:\Vimec\Projects\application\v-center-linux\buster\initial-ISO\usbstick-3.14.4.0-buster.iso)
+  - Upgrade to 3.17.0.0
+  - Upgrade to 3.20.0.0-RC4
+- 3
+  - Install from Buster Initial ISO (Z:\Vimec\Projects\application\v-center-linux\buster\initial-ISO\usbstick-3.14.4.0-buster.iso)
+  - Upgrade to 3.17.0.0
+  - Upgrade to 3.20.0.0-RC4
+  - Restore backup _Z:\\Vimec\\Projects\\application\\Test_backup\\Clean_backup\\CARPO\\backup\\Dim437\\20221013_full_backup_Carpo-Dim-437-Flange.tgz_
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     unassigned @adib.binkhaled
+07-28 14:22:            INFO     We see this issue another system.
+07-28 14:22:            INFO     This issue is not happen in 233. We need to change the process to install OS10. The installation procedure to install OS10 in any system will be:
+
+- Install initial ISO
+- Install 3.17.x.x package
+- Install 3.20.x.x package
+- Restore full backup. After 3.20.x.x we are not restore any binaries. So, we do not need to install package again. 
+
+Closing the issue ticket, since this will not be an issue if we use the above setup procedure.
+07-28 14:22:            INFO     mentioned in issue #7468
+07-28 14:22:            INFO     grep VIMEC /home/vimec/.icewm/menu
+
+
+![image](/uploads/a108bc5d28223764f7ad967fdc0c3169/image.png)
+
+@Adriaan.deGroot : When i try to run this `/home/vimec/scripts/restartvimec 0` from vimec, it asking me the root password. I think this is the problem.  
+
+![image](/uploads/b304f05ad769e310dd4165aadf3604d0/image.png)
+07-28 14:22:            INFO     assigned to @adib.binkhaled
+07-28 14:22:            INFO     Can't reproduce. 
+
+- If you can, pick *Logout* > *Restart icewm* from the menu and see if that helps.
+- Please run `grep VIMEC /home/vimec/.icewm/menu` to see what the program-definitions are (this should work both as *root* and as Linux-user *vimec*)
+- The **normal** definition of the restart-VIMEC menu entry is `/home/vimec/scripts/restartvimec 0` . Enter that command at the shell-prompt (as Linux-user *vimec*) and see what heppens.
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7561]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7561]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+Any places -- well, there's just one, which is the reject image storage, *Save* button -- that use a spinner should now show a rotowheel-graphic instead of petals.
+07-28 14:22:            INFO     mentioned in commit 4b2bf80e7a050e5730e85720124d47cafd37879f
+07-28 14:22:            INFO     mentioned in commit 3ab5dc03e0a5a1a352fbf075942ba8a54c47b29a
+07-28 14:22:            INFO     mentioned in commit 186d45ee6765b60cce706e88c9817536bf1fc8bf
+07-28 14:22:            INFO     mentioned in commit 1c3a56d287418e917c7e0e0aa4d82925b03e5715
+07-28 14:22:            INFO     mentioned in merge request !7427
+07-28 14:22:            INFO     mentioned in commit 64125d0535fac3d69b5e5fdd88b4a6c76fcb1c22
+07-28 14:22:            INFO     mentioned in commit 954cb0c8e33d2b539e2db426cfaf320d93b16608
+07-28 14:22:            INFO     mentioned in commit 4c7857329e68f403a226e648ea48c45b90d57633
+07-28 14:22:            INFO     mentioned in commit bbbf46bce4d96b899bcd109bebdc242535cf2994
+07-28 14:22:            INFO     mentioned in commit a362da8ebc7ebfa57ad07d3dbd4de37f1949375d
+07-28 14:22:            INFO     mentioned in commit aec205b879044e5b01171bb9f7ee9f02217e75e6
+07-28 14:22:            INFO     [O-doc_diagrams_TEMPLATE.pptx](/uploads/54a43b30979c90e6e608a8733d429484/O-doc_diagrams_TEMPLATE.pptx)
+07-28 14:22:            INFO     - The existing `StatusButton` class uses a spinner icon / spinner pixmap and has a caching implementation
+- Creating a spinner label that uses that, and making the spinner pixmap cache available to both label and button would be an improvement and provide a centralized place for the images
+- Use the waiting-spinner widget from *progmotors*
+- Update the spinner to not be petals / lines .. the boring kind of spinner, but use a Vimec rotowheel graphic and spin it in the same cadence that the line would rung. That would be an attention-to-detail UI fanciness patch.
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7561]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7561]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7669]
+07-28 14:22:            INFO     ## Test Status:
+
+Passed  
+
+## Test Result:
+
+![image](/uploads/5e887de6f0397f912f0da6282ced4398/image.png){width=909 height=648}
+07-28 14:22:            INFO     mentioned in commit 5cd0ae82e6942df2ad42bd08012fe09f3be4102c
+07-28 14:22:            INFO     mentioned in commit e2030a193885a9cb026bce6752f5b854e30728ea
+07-28 14:22:            INFO     mentioned in commit 832e9909e65494e965837da8fb8fa7748abe80b0
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+You must install from a **new** ISO. Either use the nightly from the day after this is closed (so the 06-27 nightly) or fetch a manually-built ISO, which you can get (until the next cleanup of manual ISOs) from `Z:\Vimec\Projects\application\v-center-linux\bookworm\manual\7669-os-12-teamviewer-is-not-able-to-connect-after-installing-t\e048b57d\iso`
+07-28 14:22:            INFO     mentioned in commit a545716ec8c35edce40bc181c19ea29b5bb32ef1
+07-28 14:22:            INFO     mentioned in commit e048b57d5fbcaaf36a0c7820e4c2624ce1943eac
+07-28 14:22:            INFO     mentioned in commit 63a2b5409aa50d2562d231916c913e731922907f
+07-28 14:22:            INFO     mentioned in merge request !7428
+07-28 14:22:            INFO     mentioned in commit 8d46be1a8855be6cb1d975a2a939c404d6782977
+07-28 14:22:            INFO     mentioned in commit 3b200ee5218cb6ee226d02970cee02fd616d9b4d
+07-28 14:22:            INFO     mentioned in commit ac9a451353f333d237509f149555ee70f6a087fc
+07-28 14:22:            INFO     created branch [`7669-os-12-teamviewer-is-not-able-to-connect-after-installing-the-latest-nightly-iso`](/Vimec/v-center-linux/-/compare/develop...7669-os-12-teamviewer-is-not-able-to-connect-after-installing-the-latest-nightly-iso) to address this issue
+07-28 14:22:            INFO     ### Getting a OS-12 ISO to a Working Situation
+
+- (re)install from the ISO
+- `apt update`
+- `apt install lightdm`
+- Edit the *lightdm* configuration and enable autologin
+- Add `xhost +local:` to various scripts that start V-Center
+- Reboot
+
+The *lightdm* configuration does proper session-registration so that TeamViewer works, while *xhost* then allows the *vimec* user (or any other local Linux user on the V-Center PC) to connect to the X Server.
+
+Downside is that "logout" drops you to the greeter, rather than automatically logging in again; I suppose customers might need to know about *desktop:desktop* to get back in.
+07-28 14:22:            INFO     Installed a VM with an ISO generated from branch `7601-release-candidate-3-20-0-0`. This installation comes with TeamViewer 15.65.6, which is currently not the latest version (latest is 15.66.5, but a quick test shows the same problem on that version).
+
+What we've tried:
+- Relax access rights for TeamViewer related files (`/etc/teamviewer/`, /opt/teamviewer/`, `/run/teamviewer*`, /home/desktop/.config/teamviewer/`, `/home/desktop/.local/share/teamviewer15/`)
+- Looked at logging in `/home/desktop/.local/share/teamviewer15/logfiles/TeamViewer15_Logfile.log` after setting the log level in TeamViewer to log everything (via advanced settings). We observe some `ForwardCommandToSession()` messages, but those same message are observed on a system at which TeamViewer can connect to
+- Looked at logging in the systemd logging service through `journalctl`. No obvious warnings or errors are observed.
+- Looked at output of `strace` for both `TeamViewer` and `teamviewerd`. No warnings or errors are observed.
+07-28 14:22:            INFO     assigned to @stefan.spronkmans and @jan.wilmans
+07-28 14:22:            INFO     added Vimec#33 as parent epic
+07-28 14:22:            INFO     mentioned in issue #7579
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7669]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7669]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7699]
+07-28 14:22:            INFO     ## Test Status
+
+Passed.
+07-28 14:22:            INFO     mentioned in issue #7608
+07-28 14:22:            INFO     marked this issue as related to #7608
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Current [bug] behavior
+After a cold reset (i.e., power cycle) the connection to a CME2 device must be reset multiple times before communication to the device can happen without errors.
+### Modules affected
+Motorcontrol module
+### Steps to test the issue
+Execute a cold reset of the system and verify that the connection to the CME2 device is ok when V-Center is started. Also verify that the CME2 device can the be operated as normal.
+07-28 14:22:            INFO     mentioned in commit 62ff047d4df2a69ff68cc54bed993acca251d589
+07-28 14:22:            INFO     mentioned in merge request !7429
+07-28 14:22:            INFO     created branch [`7699-reset-stepnet-device-when-connecting-to-that-device`](/Vimec/v-center-linux/-/compare/develop...7699-reset-stepnet-device-when-connecting-to-that-device) to address this issue
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     marked this issue as related to service#270
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7696]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7696]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+Dimensional mode 450 which has a measurement "Inner Head Diameter". Check whether the results on the calibration result page that show the (diameter in mm) final measurement is correct/correctly scaled. (This was once tested with Teun, before the release was made)
+07-28 14:22:            INFO     mentioned in commit d53378899b67b28a7065727d1b6cc553a2798eb9
+07-28 14:22:            INFO     mentioned in commit 730499d9c9cecb652b331fd2f198405af8f4af74
+07-28 14:22:            INFO     mentioned in issue #7697
+07-28 14:22:            INFO     mentioned in commit 9173d194ee678fba5be9786cc17807ff97945a8f
+07-28 14:22:            INFO     mentioned in merge request !7424
+07-28 14:22:            INFO     created branch [`7696-fixing-inner-head-diameter`](/Vimec/v-center-linux/-/compare/develop...7696-fixing-inner-head-diameter) to address this issue
+07-28 14:22:            INFO     assigned to @jefin.paul
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6679]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+See issue description.
+07-28 14:22:            INFO     ## Test Status
+
+Passed
+
+
+## Test result
+
+No ZMQ error.
+![image](/uploads/c7b31bc07154f187a2310223c5b6f6a4/image.png){width=864 height=663}
+07-28 14:22:            INFO     mentioned in commit a2c6ab4589c382a9b5dd775bed2e1062fdc7590b
+07-28 14:22:            INFO     mentioned in commit cab7828bea6b2d27d249c1707fa5e2ffdb0087cf
+07-28 14:22:            INFO     mentioned in merge request !7423
+07-28 14:22:            INFO     created branch [`6679-event-log-unable-to-connect-to-the-zmq-server-error-message-pops-up-if-we-exit-vcenter-while`](/Vimec/v-center-linux/-/compare/develop...6679-event-log-unable-to-connect-to-the-zmq-server-error-message-pops-up-if-we-exit-vcenter-while) to address this issue
+07-28 14:22:            INFO     assigned to @adib.binkhaled and unassigned @stefan.spronkmans
+07-28 14:22:            INFO     A quick look at the code reveals that during V-Center shutdown the function `StopSensorAgents` is always called, even if the old camera managers are used. Since there's no sensor agents to stop and there's no valid information available on how to contact a sensor agent (hence the `@ n/a:-1` address in the screenshot of the issue description) error messages are printed. The solution should be to skip `StopSensorAgents` if the sensing component is not enabled.
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6679]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ## Test Status
+
+Passed.
+07-28 14:22:            INFO     mentioned in commit 7c9a4406964106e97c4ba81c87600c7e523ff55c
+07-28 14:22:            INFO     mentioned in merge request !7422
+07-28 14:22:            INFO     created branch [`7572-add-viccleanup-tool-to-remove-statistics-and-images-from-the-system-before-shipping-a-product`](/Vimec/v-center-linux/-/compare/develop...7572-add-viccleanup-tool-to-remove-statistics-and-images-from-the-system-before-shipping-a-product) to address this issue
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+- As Linux-user *desktop* you should not be able to execute `/home/vimec/scripts/cleanup.sh`
+- As Linux-user *vimec* you should be able to execute `/home/vimec/scripts/cleanup.sh`
+- As Linux-user *vimec*, command `cleanup.sh` should also work
+- There should be a prompt asking if you want to clean up, responding anything except `y`, `Y`, `yes` or `YES` should abort the cleanup
+- After cleanup, statistics, images, etc. should all be gone and the system should be more like "freshly installed" except that the configuration is preserved.
+
+As a bonus, check in e.g. the `vic/conf/` directory to see if there are any cruft-files (useless ini-files, random-ass backups of ini-files) and report them so that the tool can be improved to clean up more of the cruft from existing backup-files.
+07-28 14:22:            INFO     mentioned in commit acbcd7589c29f35ae550c1aaa61772c13ee23b28
+07-28 14:22:            INFO     mentioned in commit d5da4be588acb81cf8e0fc6cfe938097b1fdfeea
+07-28 14:22:            INFO     mentioned in commit 951b161b0f4f6ab049eb140f3ccdc61b73a6aac9
+07-28 14:22:            INFO     mentioned in commit 71585a87679ac5b3dd77f9da60ebfb19dbabafc7
+07-28 14:22:            INFO     mentioned in commit a2ead0e9f51c9b90591f5d75f94f9171b2b24561
+07-28 14:22:            INFO     mentioned in commit d40e4f1b1a6159603c2b6a697de2c529f098007e
+07-28 14:22:            INFO     mentioned in commit 459371e0de35a6b50a97692af7daa9d70000bf0e
+07-28 14:22:            INFO     mentioned in commit 1512dd6947cd1e5d1320d7e1d6e4f33cae5ccdea
+07-28 14:22:            INFO     mentioned in commit 2587ca70d683da2b58ca96436cbc1a4f62a1ced0
+07-28 14:22:            INFO     mentioned in commit 6669624b2d8711d796c37a8ebbd95601fbb8a088
+07-28 14:22:            INFO     mentioned in commit 3907154e5fcdb0cce65fc1e424c89e6c05fbf012
+07-28 14:22:            INFO     mentioned in commit b69a79ca88dddc1f34f7a51316ea6f20b8e0f10a
+07-28 14:22:            INFO     mentioned in commit ecf57de5a9d56b6e34c18a82d4a4cfeea3fc9816
+07-28 14:22:            INFO     mentioned in commit 589d525ecc5853338f60f90d4f0cf8e6b81a39c7
+07-28 14:22:            INFO     mentioned in commit eb506a43837096ae9fd5c9e311b9b84b39e68c6b
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7572]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7692]
+07-28 14:22:            INFO     mentioned in issue #7056
+07-28 14:22:            INFO     ## Test Status
+
+Passed.
+
+## Test Result:
+
+{{image.png}}![image](/uploads/eab1abdf6dfbf6a726335398396f3246/image.png){width=756 height=261}
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that the name of a created backup contains the V-Center version in its name.
+07-28 14:22:            INFO     mentioned in commit d4adb875ce0a2b1476af02bab2bfd80ff39bd457
+07-28 14:22:            INFO     mentioned in merge request !7420
+07-28 14:22:            INFO     created branch [`7692-include-v-center-version-in-backup-name`](/Vimec/v-center-linux/-/compare/develop...7692-include-v-center-version-in-backup-name) to address this issue
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7691]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ## Test Status
+
+Passed.
+
+## Test Result:
+
+The master-slave system is working without any issue
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+See issue description. In addition, make sure that `/var/coredump/` is empty before starting V-Center, then start it and either force-restart, or run `killvcenter` from the command-line, and verify that there are still no cores.
+07-28 14:22:            INFO     mentioned in commit acd9229c8411671ea877fdbb8273dbc4102507d3
+07-28 14:22:            INFO     mentioned in merge request !7419
+07-28 14:22:            INFO     mentioned in commit bb31d1697a272ea47d421510784579ae768c5d6e
+07-28 14:22:            INFO     mentioned in commit e0e00fe09e2b9427ccab2dadbf20bc900fb7b019
+07-28 14:22:            INFO     mentioned in commit bec8ca0616c45892c79a890477e7044235d8254c
+07-28 14:22:            INFO     mentioned in commit 931db9b8e56d438941703002249ad01697878ad2
+07-28 14:22:            INFO     mentioned in commit 83b07c1e337848520b370598300a131e7e956399
+07-28 14:22:            INFO     mentioned in commit dd71a9c990c4cd684e61767cd13cfde503739660
+07-28 14:22:            INFO     mentioned in commit aa375049ffcb29be174bce39d609dd1abe83e9df
+07-28 14:22:            INFO     This issue is also seen in OS-10 (master-slave) system. OS-10: 172.16.2.22 (master) 172.16.2.4 (slave1)
+
+![image](/uploads/4db6af094884965a5bea2221f68dc2c2/image.png)
+07-28 14:22:            INFO     assigned to @Adriaan.deGroot
+07-28 14:22:            INFO     mentioned in commit b00ac47ca2128fda17cc0e3a7e91de47aadf3554
+07-28 14:22:            INFO     I see this on startup:
+
+```
+[2025-06-18 16:52:17.836][InspectModule011][59231][59231][src/vcenter/cammgr/cameralib/src/arvmgr.cc:138][bool ConnectToCameraManager(std::string_view)][error]: Not connected to the camera manager (gevmgr).
+[2025-06-18 16:52:17.837][InspectModule011][59231][59231][src/vcenter/cammgr/cameralib/src/arvmgr.cc:253][void FetchInformation(mgr_init_t&, ManagerType)][error]: Unable to fetch information from gevmgr (failed to connect)
+[2025-06-18 16:52:17.842][InspectModule011][59231][59231][src/vcenter/cammgr/cameralib/src/arvmgr.cc:142][bool ConnectToCameraManager(std::string_view)][info]: Connected to pylon_usbmgr
+[2025-06-18 16:52:17.844][pylon_usbmgr][59097][59097][src/vcenter/cammgr/gevmgr/src/usbmgr.cc:366][int MainMessageProcessLoop()][info]: InspectModule011 disconnected
+[2025-06-18 16:52:17.851][InspectModule011][59231][59231][src/vcenter/lib/general/src/process.cc:231][vic::MonitoredChildProcessHandle vic::StartChildAndMonitor(std::string_view, const std::vector<std::__cxx11::basic_string<char> >&, EnvironmentContainer, lifetime)][debug]: /home/vimec/bin/gevmgr (PID=59363) started
+[2025-06-18 16:52:17.976][InspectModule011][59231][59364][src/vcenter/lib/general/src/process.cc:155][int vic::detail::MonitorProcess(std::string, pid_t)][error]: /home/vimec/bin/gevmgr (PID=59363) segfault (exitstatus=139)
+```
+
+The same kind of crash (? segfault, anyway) occurs for more modules, like *InspectModule010*, *12*, *13* and *18*. I see a couple of *ssh* processes, which are running a command on the slave-PC. The command includes this snippet: `source /home/vimec/vic/set_gev_env;` That script doesn't exist anymore.
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7691]
+07-28 14:22:            INFO     mentioned in commit e003a1341d18986c681f01d1357f3cbeb160b1ef
+07-28 14:22:            INFO     mentioned in commit 034e3283b5a86248c625fdb71eab71685f429964
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+### Steps to test the issue
+Verify that the name a created backup contains `OS-<debian_version>` in its name, and not the Debian codename (e.g., Buster, Bookworm). So:
+- For Buster: `OS-10`
+- For OS-12: `OS-12`
+07-28 14:22:            INFO     mentioned in commit 6557334ca31edee790c053a3ade2ebc1bc957c86
+07-28 14:22:            INFO     mentioned in commit dbc14c56515745a54ed021944fc0c307eada8dc9
+07-28 14:22:            INFO     mentioned in merge request !7417
+07-28 14:22:            INFO     created branch [`7691-use-os-12-rather-than-bookworm-for-backup-names`](/Vimec/v-center-linux/-/compare/develop...7691-use-os-12-rather-than-bookworm-for-backup-names) to address this issue
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     added Vimec#33 as parent epic
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7683]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7685]
+07-28 14:22:            INFO     ## Test Status:
+
+Passed.
+
+
+## Test Result:
+
+![image](/uploads/6ec54ac3dcdc9eedaabcd0ac36a522bb/image.png)
+07-28 14:22:            INFO     mentioned in issue #7689
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+Start with a new slave (e.g. install V-Center packages on it, then run the make-it-a-slave-PC script). That part (esp. installing V-Center packages) is needed, to change the permissions on file `/etc/localtime`. It should look like this:
+
+```
+-rw-rw-r-- 1 root vimec 2198 Jun 18 15:54 /etc/localtime
+```
+
+Then time-and-date synchronization works between master and slave.
+
+Note that the "synchronization" choice in *time-admin* doesn't work, and it isn't going to work either. That doesn't really matter: we are running *ntpd* anyway, so the time is sycnhronized even though *time-admin* doesn't recognize that fact.
+07-28 14:22:            INFO     mentioned in commit 2a5d89bb862bc820be7cdd94c06aa5c7bd511253
+07-28 14:22:            INFO     mentioned in commit 5a1f957a0ea8a59d844885e5b3fe736ecd52b126
+07-28 14:22:            INFO     mentioned in commit 3b2e285637bcad8fae134be50cf20c5032711800
+07-28 14:22:            INFO     mentioned in commit 251f53ff49843e2fedb41f4283e1578d70eb7caf
+07-28 14:22:            INFO     mentioned in commit ab2051050dc58082350a0bd32bb6feaa722ddd6b
+07-28 14:22:            INFO     mentioned in commit a8bc9bfb43b4f1ff5cdec1a91de8d59dd3377fe9
+07-28 14:22:            INFO     mentioned in commit 6d1b26a4ee386ff8c555edb44bce2813cfeb2632
+07-28 14:22:            INFO     mentioned in commit dda92de024038125a439fe9313123401441a16c8
+07-28 14:22:            INFO     mentioned in commit e61bd05e7f00a748624218fb63fc4d69d2852e06
+07-28 14:22:            INFO     mentioned in merge request !7415
+07-28 14:22:            INFO     created branch [`7685-os-12-the-master-and-slave-pc-times-do-not-sync-after-changing-the-time-zone`](/Vimec/v-center-linux/-/compare/develop...7685-os-12-the-master-and-slave-pc-times-do-not-sync-after-changing-the-time-zone) to address this issue
+07-28 14:22:            INFO     <p>changed title from <code class="idiff">[OS-12]The master and s<span class="idiff left right deletion">a</span>lve PC times do not sync after changing the time zone.</code> to <code class="idiff">[OS-12]The master and sl<span class="idiff left right addition">a</span>ve PC times do not sync after changing the time zone.</code></p>
+07-28 14:22:            INFO     mentioned in issue #6053
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7685]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7685]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7685]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6873]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+No
+
+There isn't really a testing scenario for this.
+07-28 14:22:            INFO     mentioned in merge request !7416
+07-28 14:22:            INFO     created branch [`6873-system-out-of-diskspace-by-overflowing-syslog`](/Vimec/v-center-linux/-/compare/develop...6873-system-out-of-diskspace-by-overflowing-syslog) to address this issue
+07-28 14:22:            INFO     removed parent epic Vimec#33
+07-28 14:22:            INFO     mentioned in commit 9d0d439d0de9b65e94a33a46a6abeb08f4dbb46a
+07-28 14:22:            INFO     mentioned in commit 0fe2c7cae1fbb879bc8838d352cf21d43e1fc815
+07-28 14:22:            INFO     mentioned in commit 7ff210217625f11ef28bb8dfa09a05d9f427c21f
+07-28 14:22:            INFO     mentioned in merge request !7413
+07-28 14:22:            INFO     created branch [`6873-system-out-of-diskspace-by-overflowing-syslog`](/Vimec/v-center-linux/-/compare/develop...6873-system-out-of-diskspace-by-overflowing-syslog) to address this issue
+07-28 14:22:            INFO     ### Log Message Generation on OS-10
+
+The command `/usr/bin/logger` (*logger(1)*) can be used to generate log messages that go to syslog. For instance (either as root, or as user vimec, on OS-10):
+
+```
+logger -s -i -p user.notice "Example message"
+```
+
+Here `-s` also prints the message to stderr, `-i` logs the process-ID, `-p` sets a log-level, and the message is the example message. More realistically (at least to resemble the problem OpenVPN creates when log-spamming), use log-level `daemon.warn`. For a denial-of-disk-space attack, put that invocation of `logger` in a `while true` loop.
+
+After logging, check the tail-end of files in `/var/log` (e.g. `/var/log/messages`, `/var/log/syslog` and `/var/log/daemon.log`). Use `ls -latr` to list files with most-recently-changed last, then it is easy to see which files got the message. You can *tail(1)* multiple files at once (with `-f` as well) to watch as log-messages come in.
+07-28 14:22:            INFO     assigned to @Adriaan.deGroot
+07-28 14:22:            INFO     discussed: we could introduce a low-diskspace monitoring system so we at least get an early warning before we run out of diskspace. And service can diagnose the problem easier.
+07-28 14:22:            INFO     mentioned in issue #6717
+07-28 14:22:            INFO     added to epic &33
+07-28 14:22:            INFO     mentioned in issue #6853
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7687]
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+No, documentation added only.
+07-28 14:22:            INFO     mentioned in commit 755642e92d22d970e503330667fcec9a87d25421
+07-28 14:22:            INFO     mentioned in commit 9b76e4d7135edccfd31e795c136e6b8a44e7e78b
+07-28 14:22:            INFO     mentioned in merge request !7414
+07-28 14:22:            INFO     created branch [`7687-os-12-stringfromfilequadruple-shows-only-one-chuck-info-instead-of-four-chucks`](/Vimec/v-center-linux/-/compare/develop...7687-os-12-stringfromfilequadruple-shows-only-one-chuck-info-instead-of-four-chucks) to address this issue
+07-28 14:22:            INFO     unassigned @adib.binkhaled
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     @stefan.spronkmans : Thank you. Tested and confirm. Just one feedback, can you please add this in the `VCenter.ini` documentation? 
+
+![image](/uploads/a97af78b10a7ec29f87781eb243ce3a3/image.png)
+07-28 14:22:            INFO     assigned to @adib.binkhaled
+07-28 14:22:            INFO     I believe this may be a misconfiguration: rather than repeating the unique id's within a sequence manually in `ID_*`, you should simply provide the unique id's only (and V-Center will generate the correct sequence from that). With the current combination of mode, max id and provided sequence you'll just generate the sequence `1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1`.
+
+So, in this case:
+```
+ID_1=1 2 3 4
+```
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7687]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7684]
+07-28 14:22:            INFO     ## Test Status
+
+Passed
+
+## Test Result:
+
+![image](/uploads/f4b78cd4adbda6463daa1a112f500c0d/image.png)
+07-28 14:22:            INFO     added Vimec#33 as parent epic
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+See issue description.
+07-28 14:22:            INFO     mentioned in commit 79372dbb80a73780832f2e0861ba2f381627e5b2
+07-28 14:22:            INFO     mentioned in merge request !7412
+07-28 14:22:            INFO     created branch [`7684-os-12-email-is-not-able-to-save-the-encryption-and-authorization-value`](/Vimec/v-center-linux/-/compare/develop...7684-os-12-email-is-not-able-to-save-the-encryption-and-authorization-value) to address this issue
+07-28 14:22:            INFO     It looks like the directory `/etc/vimec/` is not created when installing packages on OS-12. The `postinst` of `vcenter-application` creates that directory for OS-10 only. When the directory does not exist, V-Center is indeed not able to save the e-mail settings to `/etc/vimec/vicconfignetwork.ini`.
+07-28 14:22:            INFO     assigned to @stefan.spronkmans
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#6925]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7601]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7679]
+07-28 14:22:            INFO     ## Test Status
+
+Passed.
+
+## Test Result:
+
+With out 
+![image](/uploads/5ef764ecf8a0b25ecd4bee0630d2e003/image.png)
+
+With at least one:
+
+![image](/uploads/222bcb9ab22c407ab21d48f743ebea7d/image.png)
+07-28 14:22:            INFO     mentioned in issue service#595
+07-28 14:22:            INFO     mentioned in commit 8264788a307237cc70b04707f68499e08ef45aa4
+07-28 14:22:            INFO     ## Test info
+### Testing needed?
+Yes
+
+See issue description. In a system that has validation of some sort you should have disabled buttons until you enable at least one measurement. 
+
+### Configuration Needed
+
+- You need to have at least one module, 
+- in *Display* > *Validation* > *Setup* , ensure at least one module is set to *Automatic on pulse*
+- in *Display* > *Validation* > *Modules*, enable at least one module that is set to *Automatic on pulse*
+- in *Display* > *Validation* > *Validation* (the default page), column *On* should now show checkboxes
+- **check** if none of the checkboxes are checked, the buttons *Validate* and *Calibrate* should be disabled,
+- **check** otherwise, they might be enabled or disabled depending on the rest of the validation logic (e.g. inspection running, or whatever).
+07-28 14:22:            INFO     changed the description
+07-28 14:22:            INFO     mentioned in merge request !7409
+07-28 14:22:            INFO     mentioned in commit dfe4c401d808069c437f6ad6487869ea1d142800
+07-28 14:22:            INFO     mentioned in commit 1ea90a2191ec776cc22718dd2c64e8acc1ac4054
+07-28 14:22:            INFO     marked this issue as related to service#595
+07-28 14:22:            INFO     assigned to @Adriaan.deGroot
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7679]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]
+07-28 14:22:            INFO     ++++++++++++++++++++++++++++++++++++            ++++++++++++++++++++++++++++++++++++++
+07-28 14:22:            INFO     [#7503]

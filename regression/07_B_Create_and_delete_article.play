@@ -1,0 +1,76 @@
+SEARCH User_btn.png
+CLICK 305,262
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+ASSERT base-2-136x169_261x43.txt :Current user vimec
+SELECT Article_btn.png
+CLICK 51, 341
+SELECT Article_directory_name_input.png
+PRESS Key 0
+PRESS Key 1
+PRESS Key R
+PRESS Key e
+PRESS Key g
+PRESS Key r
+PRESS Key e
+PRESS Key s
+PRESS Key s
+PRESS Key i
+PRESS Key o
+PRESS Key n
+SELECT Article_article_name_input.png
+PRESS Key r
+PRESS Key e
+PRESS Key g
+PRESS Key r
+PRESS Key e
+PRESS Key s
+PRESS Key s
+PRESS Key i
+PRESS Key o
+PRESS Key n
+SEARCH Article_create_btn.png
+SEARCH yes_btn.png
+SELECT yes_btn.png
+SEARCH Select_menu.png
+CLICK 79,130
+CLICK 335,198
+CLICK 846,216
+CLICK 257,880
+CLICK 594,535
+CLICK 83,402
+CLICK 385,182
+CLICK 807,159
+CLICK 66,122
+CLICK 315,172
+CLICK 791,170
+CLICK 342,901
+SEARCH yes_btn.png
+SELECT yes_btn.png
+CLICK 81,382
+CLICK 398,157
+CLICK 829,141
+SEARCH Article_delete_btn.png
+SEARCH yes_btn.png
+SELECT yes_btn.png
+CLICK 369,153
+SEARCH Article_delete_btn.png
+SEARCH yes_btn.png
+SELECT yes_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 367,197
+SEARCH Close_btn.png

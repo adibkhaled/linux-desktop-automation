@@ -1,0 +1,41 @@
+SEARCH User_btn.png
+CLICK 305,262
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+ASSERT base-2-136x169_261x43.txt :Current user Vimec
+SEARCH Configuration_btn.png
+CLICK 56,509
+CLICK 195,243
+SLEEP 1
+SELECT backup_conf_stress_in_glass_atlas.png
+SLEEP 2
+CLICK 503,571
+SEARCH restore_btn.png
+SELECT yes_btn.png
+SELECT yes_btn.png
+WAIT backup_alert_msg.png
+ASSERT base-1-443x596_260x20.txt :Backup restored successfully
+PRESS Key.enter
+CLICK 699, 487
+CLICK 717,504
+CMD :/home/vimec/scripts/killvcenter > /dev/null 2>&1 &
+SLEEP 10
+CMD :/home/vimec/scripts/vcenter > /dev/null 2>&1 &
+SLEEP 50
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 348,197
+SEARCH Close_btn.png

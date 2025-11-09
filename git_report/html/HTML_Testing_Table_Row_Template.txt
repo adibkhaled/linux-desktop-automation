@@ -1,0 +1,6 @@
+	<tr>
+		<td>&nbsp;<a href="COMMIT_LINK">COMMIT_DATA</a></td>
+		<td>&nbsp;<a href="ISSUE_LINK">ISSUE</a></td>
+		<td>&nbsp;TITLE_DATA</td>
+		<td>&nbsp;IS_INFO</td>
+	</tr>

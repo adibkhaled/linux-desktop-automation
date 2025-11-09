@@ -1,0 +1,51 @@
+SEARCH User_btn.png
+CLICK 305,262
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+CLICK 64,236
+CLICK 533, 192
+PRESS Key.backspace
+PRESS Key.backspace
+PRESS Key.backspace
+PRESS Key.backspace
+PRESS Key.backspace
+PRESS Key.backspace
+CLICK 335, 196
+SEARCH Note_menu.png
+SELECT yes_btn.png
+PRESS Key l
+CLICK 392,197
+SEARCH User_btn.png
+CLICK 305,262
+PRESS Key u
+PRESS Key s
+PRESS Key e
+PRESS Key r
+PRESS Key -
+PRESS Key 0
+PRESS Key 3
+CLICK 334,302
+PRESS Key u
+PRESS Key s
+PRESS Key e
+PRESS Key r
+PRESS Key 0
+PRESS Key 3
+CLICK 379,339
+SLEEP 2
+ASSERT base-1-480x530_230x20.txt :User name is not valid
+SEARCH OK_btn.png
+SEARCH Close_btn.png

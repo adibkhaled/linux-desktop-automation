@@ -1,0 +1,128 @@
+LAST_UPDATE: 09-02-2011
+commandtask: [1;31m<ERROR>[0;39m connect to dbmodule failed
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect board (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect inputboard (13)
+commandtask: [1;31m<ERROR>[0;39m Could not detect inputboard (7)
+commandtask: [1;31m<ERROR>[0;39m Not able to configure 2nd IO-board for Profinet mode
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to DefaultOutput input board (13)
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to connect to IOBoard type 13
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+commandtask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+dbmodule: [1;31m<ERROR>[0;39m DBWriter::init() : connection to DB not successful
+InspectModule001: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule002: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule003: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+InspectModule004: SetCamPar() [1;31m<ERROR>[0;39m Invalid CardNr (-1) for Camera 0
+iomaster: [1;31m<ERROR>[0;39m : Driver communication not started because driver is not loaded.
+iomaster: [1;31m<ERROR>[0;39m : failure starting DriverCommunications to Profinet, now disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+iomaster: [1;31m<ERROR>[0;39m : not starting Profinet Core, Profinet is disabled.
+NVRam001: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam001.0
+NVRam001: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam001.1
+NVRam001: [1;31m<ERROR>[0;39m file check failed on second file: NO DATAFILE LOADED
+NVRam001: [1;31m<ERROR>[0;39m no data file for loading
+NVRam002: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam002.0
+NVRam002: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam002.1
+NVRam002: [1;31m<ERROR>[0;39m file check failed on second file: NO DATAFILE LOADED
+NVRam002: [1;31m<ERROR>[0;39m no data file for loading
+NVRam003: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam003.0
+NVRam003: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam003.1
+NVRam003: [1;31m<ERROR>[0;39m file check failed on second file: NO DATAFILE LOADED
+NVRam003: [1;31m<ERROR>[0;39m no data file for loading
+NVRam004: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam004.0
+NVRam004: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam004.1
+NVRam004: [1;31m<ERROR>[0;39m file check failed on second file: NO DATAFILE LOADED
+NVRam004: [1;31m<ERROR>[0;39m no data file for loading
+NVRam005: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam005.0
+NVRam005: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRam005.1
+NVRam005: [1;31m<ERROR>[0;39m file check failed on second file: NO DATAFILE LOADED
+NVRam005: [1;31m<ERROR>[0;39m no data file for loading
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board CP1616, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: [1;31m<ERROR>[0;39m Not able to initialise board PIO_D24A, board not availabe for use
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: ConfigIO() [1;31m<ERROR>[0;39m Not able to connect to IO board 13
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m DefaultPulseOutputBoard 7 not found
+viccollectresulttask: MainInit() [1;31m<ERROR>[0;39m Profinet board not found
+vicnvramtask: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRamVic.0
+vicnvramtask: [1;31m<ERROR>[0;39m Checksum not matching in NVRam file /home/vimec/vic/nvram/NVRamVic.1
+vicnvramtask: [1;31m<ERROR>[0;39m file check failed on second file: NO DATAFILE LOADED
+vicnvramtask: [1;31m<ERROR>[0;39m no data file for loading

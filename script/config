@@ -1,0 +1,10 @@
+Host dc-01.vimec.priv dc-01
+  User buildsystem
+  IdentityFile ~/.ssh/ci-identity/id_ed25519
+  StrictHostKeyChecking no
+
+Host *
+  HostName %h
+  User root
+  IdentityFile ~/.ssh/ci-identity/id_ed25519
+  StrictHostKeyChecking no

@@ -1,0 +1,76 @@
+SEARCH User_btn.png
+CLICK 434,267
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+ASSERT base-2-136x169_261x43.txt :Current user vimec
+CLICK 779,47
+CLICK 55,302
+CLICK 181,145
+SLEEP 10
+SEARCH Sign_btn.png
+SEARCH vcenter_valid_sign_text.png
+CLICK 193,897
+CLICK 431,193
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 348,197
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 434,267
+PRESS Key v
+PRESS Key i
+PRESS Key m
+PRESS Key e
+PRESS Key c
+CLICK 341,297
+PRESS Key H
+PRESS Key l
+PRESS Key =
+PRESS Key g
+PRESS Key i
+PRESS Key h
+PRESS Key B
+PRESS Key l
+CLICK 379,339
+ASSERT base-2-136x169_261x43.txt :Current user vimec
+SELECT Setup_btn.png
+CLICK 79,357
+SLEEP 2
+CLICK 514,317
+SLEEP 2
+CLICK 196,625
+SLEEP 2
+CLICK 318,898
+SLEEP 2
+SEARCH Inspection_btn.png
+SLEEP 2
+SEARCH start_inspection_btn.png
+SLEEP 5
+CMD :/home/vimec/vic/bin/vic/simulateinputpin 8 -1 500 7 > /dev/null 2>&1 &
+WAIT accept_cressida_green.png
+CMD :ps -ef | grep simulate | grep -v grep | awk '{print $2}' | xargs kill > /dev/null 2>&1 &
+SLEEP 5
+SELECT stop_inspection_btn.png
+SLEEP 5
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH Close_btn.png
+SEARCH User_btn.png
+CLICK 348,197
+SEARCH Close_btn.png
+SEARCH Close_btn.png
